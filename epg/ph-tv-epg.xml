@@ -1,0 +1,2044 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="ph-tv-epg" generator-info-url="https://github.com/YOUR_USERNAME/ph-tv-epg" date="20261019025428 +0800">
+  <channel id="TV5.ph">
+    <display-name>TV5</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TV5_Logo_2021.svg/200px-TV5_Logo_2021.svg.png"/>
+  </channel>
+  <channel id="Kapamilya.ph">
+    <display-name>Kapamilya Channel</display-name>
+  </channel>
+  <channel id="ALLTV2.ph">
+    <display-name>ALLTV2</display-name>
+  </channel>
+  <channel id="A2Z.ph">
+    <display-name>A2Z</display-name>
+  </channel>
+  <channel id="JeepneyTV.ph">
+    <display-name>Jeepney TV</display-name>
+  </channel>
+  <channel id="GMA.ph">
+    <display-name>GMA Network</display-name>
+  </channel>
+  <channel id="GTV.ph">
+    <display-name>GTV</display-name>
+  </channel>
+  <programme start="20261019043000 +0800" stop="20261019053000 +0800" channel="TV5.ph">
+    <title lang="en">Mga Kwentong MX3</title>
+  </programme>
+  <programme start="20261019053000 +0800" stop="20261019080000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline sa Umaga</title>
+  </programme>
+  <programme start="20261019080000 +0800" stop="20261019083000 +0800" channel="TV5.ph">
+    <title lang="en">Chibi Maruko Chan</title>
+  </programme>
+  <programme start="20261019083000 +0800" stop="20261019103000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261019103000 +0800" stop="20261019110000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express AM</title>
+  </programme>
+  <programme start="20261019110000 +0800" stop="20261019120000 +0800" channel="TV5.ph">
+    <title lang="en">Gandang Mornings with Ate Koring</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+  </programme>
+  <programme start="20261019143000 +0800" stop="20261019151500 +0800" channel="TV5.ph">
+    <title lang="en">Mommy Guard / Afternoon Series</title>
+  </programme>
+  <programme start="20261019151500 +0800" stop="20261019160000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express PM</title>
+  </programme>
+  <programme start="20261019160000 +0800" stop="20261019164500 +0800" channel="TV5.ph">
+    <title lang="en">Suntok sa Buwan</title>
+  </programme>
+  <programme start="20261019164500 +0800" stop="20261019173000 +0800" channel="TV5.ph">
+    <title lang="en">Knight Rider</title>
+  </programme>
+  <programme start="20261019173000 +0800" stop="20261019180000 +0800" channel="TV5.ph">
+    <title lang="en">Jasmine</title>
+  </programme>
+  <programme start="20261019180000 +0800" stop="20261019183000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas: Una sa Lahat</title>
+  </programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20261019200000 +0800" stop="20261019204500 +0800" channel="TV5.ph">
+    <title lang="en">Sigabo</title>
+  </programme>
+  <programme start="20261019204500 +0800" stop="20261019213000 +0800" channel="TV5.ph">
+    <title lang="en">Someone, Someday</title>
+  </programme>
+  <programme start="20261019213000 +0800" stop="20261019221500 +0800" channel="TV5.ph">
+    <title lang="en">The Loyalty Game: Level Up</title>
+  </programme>
+  <programme start="20261019221500 +0800" stop="20261019224500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Tonight</title>
+  </programme>
+  <programme start="20261019224500 +0800" stop="20261019233000 +0800" channel="TV5.ph">
+    <title lang="en">Cassandra: Warrior Angel</title>
+  </programme>
+  <programme start="20261019233000 +0800" stop="20261020003000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe Nights / Oras ng Himala</title>
+  </programme>
+  <programme start="20261019053000 +0800" stop="20261019060000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261019060000 +0800" stop="20261019070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Knowledge Channel School Anywhere</title>
+  </programme>
+  <programme start="20261019070000 +0800" stop="20261019090000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kids / Rerun Block</title>
+  </programme>
+  <programme start="20261019090000 +0800" stop="20261019100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261019100000 +0800" stop="20261019120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="Kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261019143000 +0800" stop="20261019160000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Drama</title>
+  </programme>
+  <programme start="20261019160000 +0800" stop="20261019173000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits / Afternoon Zinema</title>
+  </programme>
+  <programme start="20261019173000 +0800" stop="20261019174500 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261019174500 +0800" stop="20261019183000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Minute to Win It / Goin' Bulilit</title>
+  </programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261019200000 +0800" stop="20261019204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 1</title>
+  </programme>
+  <programme start="20261019204500 +0800" stop="20261019213000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 2</title>
+  </programme>
+  <programme start="20261019213000 +0800" stop="20261019221500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 3</title>
+  </programme>
+  <programme start="20261019221500 +0800" stop="20261019224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 4 / Asian Drama</title>
+  </programme>
+  <programme start="20261019224500 +0800" stop="20261019231500 +0800" channel="Kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261019231500 +0800" stop="20261020020000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20261019053000 +0800" stop="20261019060000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261019060000 +0800" stop="20261019090000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Knowledge Channel / Kids</title>
+  </programme>
+  <programme start="20261019090000 +0800" stop="20261019100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261019100000 +0800" stop="20261019120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="ALLTV2.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261019143000 +0800" stop="20261019173000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Gold</title>
+  </programme>
+  <programme start="20261019173000 +0800" stop="20261019174500 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261019174500 +0800" stop="20261019183000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Minute to Win It</title>
+  </programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261019200000 +0800" stop="20261019224500 +0800" channel="ALLTV2.ph">
+    <title lang="en">Primetime Bida</title>
+  </programme>
+  <programme start="20261019224500 +0800" stop="20261019231500 +0800" channel="ALLTV2.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261019050000 +0800" stop="20261019060000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle: Honoring God Through Music</title>
+  </programme>
+  <programme start="20261019060000 +0800" stop="20261019070000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20261019070000 +0800" stop="20261019080000 +0800" channel="A2Z.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20261019080000 +0800" stop="20261019090000 +0800" channel="A2Z.ph">
+    <title lang="en">The Flying House / Superbook</title>
+  </programme>
+  <programme start="20261019090000 +0800" stop="20261019100000 +0800" channel="A2Z.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261019100000 +0800" stop="20261019120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="A2Z.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261019143000 +0800" stop="20261019173000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Reruns / Zinema</title>
+  </programme>
+  <programme start="20261019173000 +0800" stop="20261019174500 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261019174500 +0800" stop="20261019183000 +0800" channel="A2Z.ph">
+    <title lang="en">Primetime Preview</title>
+  </programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261019200000 +0800" stop="20261019224500 +0800" channel="A2Z.ph">
+    <title lang="en">Kapamilya Primetime (simulcast)</title>
+  </programme>
+  <programme start="20261019224500 +0800" stop="20261019231500 +0800" channel="A2Z.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20261019231500 +0800" stop="20261020000000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Classics (replay)</title>
+  </programme>
+  <programme start="20261019000000 +0800" stop="20261019053000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Teleserye Marathon (overnight)</title>
+  </programme>
+  <programme start="20261019053000 +0800" stop="20261019063000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261019063000 +0800" stop="20261019073000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261019073000 +0800" stop="20261019080000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Kapamilya Daily Mass (delayed)</title>
+  </programme>
+  <programme start="20261019080000 +0800" stop="20261019090000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019090000 +0800" stop="20261019100000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Magandang Buhay (simulcast)</title>
+  </programme>
+  <programme start="20261019100000 +0800" stop="20261019110000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Annaliza etc.</title>
+  </programme>
+  <programme start="20261019110000 +0800" stop="20261019120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019130000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019130000 +0800" stop="20261019140000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019140000 +0800" stop="20261019153000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / PHR</title>
+  </programme>
+  <programme start="20261019153000 +0800" stop="20261019170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019170000 +0800" stop="20261019173000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019173000 +0800" stop="20261019174500 +0800" channel="JeepneyTV.ph">
+    <title lang="en">TV Patrol Express (simulcast)</title>
+  </programme>
+  <programme start="20261019174500 +0800" stop="20261019220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261019220000 +0800" stop="20261020000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Late Night</title>
+  </programme>
+  <programme start="20261019053000 +0800" stop="20261019080000 +0800" channel="GMA.ph">
+    <title lang="en">Unang Hirit</title>
+  </programme>
+  <programme start="20261019080000 +0800" stop="20261019090000 +0800" channel="GMA.ph">
+    <title lang="en">Anime / Kids Block</title>
+  </programme>
+  <programme start="20261019090000 +0800" stop="20261019110000 +0800" channel="GMA.ph">
+    <title lang="en">Morning Talk / Variety</title>
+  </programme>
+  <programme start="20261019110000 +0800" stop="20261019120000 +0800" channel="GMA.ph">
+    <title lang="en">TiktoClock</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261019143000 +0800" stop="20261019152000 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261019152000 +0800" stop="20261019160500 +0800" channel="GMA.ph">
+    <title lang="en">Delivery Boi / Afternoon Drama</title>
+  </programme>
+  <programme start="20261019160500 +0800" stop="20261019163000 +0800" channel="GMA.ph">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme start="20261019163000 +0800" stop="20261019171000 +0800" channel="GMA.ph">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme start="20261019171000 +0800" stop="20261019174000 +0800" channel="GMA.ph">
+    <title lang="en">Encantadia (rerun)</title>
+  </programme>
+  <programme start="20261019174000 +0800" stop="20261019183000 +0800" channel="GMA.ph">
+    <title lang="en">Family Feud Philippines</title>
+  </programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20261019200000 +0800" stop="20261019205000 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 1</title>
+  </programme>
+  <programme start="20261019205000 +0800" stop="20261019213500 +0800" channel="GMA.ph">
+    <title lang="en">Taskforce Firewall</title>
+  </programme>
+  <programme start="20261019213500 +0800" stop="20261019221500 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 3</title>
+  </programme>
+  <programme start="20261019221500 +0800" stop="20261019230000 +0800" channel="GMA.ph">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme start="20261019230000 +0800" stop="20261020000000 +0800" channel="GMA.ph">
+    <title lang="en">Late Night / Asian Drama</title>
+  </programme>
+  <programme start="20261019053000 +0800" stop="20261019090000 +0800" channel="GTV.ph">
+    <title lang="en">Dobol B TV / Buena Manong Balita</title>
+  </programme>
+  <programme start="20261019090000 +0800" stop="20261019110000 +0800" channel="GTV.ph">
+    <title lang="en">Cinema G!</title>
+  </programme>
+  <programme start="20261019110000 +0800" stop="20261019120000 +0800" channel="GTV.ph">
+    <title lang="en">Balitanghali</title>
+  </programme>
+  <programme start="20261019120000 +0800" stop="20261019143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+  </programme>
+  <programme start="20261019143000 +0800" stop="20261019150000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 1</title>
+  </programme>
+  <programme start="20261019150000 +0800" stop="20261019153000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 2</title>
+  </programme>
+  <programme start="20261019153000 +0800" stop="20261019174500 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break / Regal</title>
+  </programme>
+  <programme start="20261019174500 +0800" stop="20261019183000 +0800" channel="GTV.ph">
+    <title lang="en">Luv Is / Afternoon Series</title>
+  </programme>
+  <programme start="20261019183000 +0800" stop="20261019200000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras (simulcast)</title>
+  </programme>
+  <programme start="20261019200000 +0800" stop="20261019214500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20261019214500 +0800" stop="20261019223000 +0800" channel="GTV.ph">
+    <title lang="en">Encantadia Chronicles: Sang'gre</title>
+  </programme>
+  <programme start="20261019223000 +0800" stop="20261019230500 +0800" channel="GTV.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+  </programme>
+  <programme start="20261019230500 +0800" stop="20261019233000 +0800" channel="GTV.ph">
+    <title lang="en">State of the Nation</title>
+  </programme>
+  <programme start="20261019233000 +0800" stop="20261020000000 +0800" channel="GTV.ph">
+    <title lang="en">Beauty Empire / Late Night</title>
+  </programme>
+  <programme start="20261020043000 +0800" stop="20261020053000 +0800" channel="TV5.ph">
+    <title lang="en">Mga Kwentong MX3</title>
+  </programme>
+  <programme start="20261020053000 +0800" stop="20261020080000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline sa Umaga</title>
+  </programme>
+  <programme start="20261020080000 +0800" stop="20261020083000 +0800" channel="TV5.ph">
+    <title lang="en">Chibi Maruko Chan</title>
+  </programme>
+  <programme start="20261020083000 +0800" stop="20261020103000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261020103000 +0800" stop="20261020110000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express AM</title>
+  </programme>
+  <programme start="20261020110000 +0800" stop="20261020120000 +0800" channel="TV5.ph">
+    <title lang="en">Gandang Mornings with Ate Koring</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020151500 +0800" channel="TV5.ph">
+    <title lang="en">Mommy Guard / Afternoon Series</title>
+  </programme>
+  <programme start="20261020151500 +0800" stop="20261020160000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express PM</title>
+  </programme>
+  <programme start="20261020160000 +0800" stop="20261020164500 +0800" channel="TV5.ph">
+    <title lang="en">Suntok sa Buwan</title>
+  </programme>
+  <programme start="20261020164500 +0800" stop="20261020173000 +0800" channel="TV5.ph">
+    <title lang="en">Knight Rider</title>
+  </programme>
+  <programme start="20261020173000 +0800" stop="20261020180000 +0800" channel="TV5.ph">
+    <title lang="en">Jasmine</title>
+  </programme>
+  <programme start="20261020180000 +0800" stop="20261020183000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas: Una sa Lahat</title>
+  </programme>
+  <programme start="20261020183000 +0800" stop="20261020200000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020204500 +0800" channel="TV5.ph">
+    <title lang="en">Sigabo</title>
+  </programme>
+  <programme start="20261020204500 +0800" stop="20261020213000 +0800" channel="TV5.ph">
+    <title lang="en">Someone, Someday</title>
+  </programme>
+  <programme start="20261020213000 +0800" stop="20261020221500 +0800" channel="TV5.ph">
+    <title lang="en">The Loyalty Game: Level Up</title>
+  </programme>
+  <programme start="20261020221500 +0800" stop="20261020224500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Tonight</title>
+  </programme>
+  <programme start="20261020224500 +0800" stop="20261020233000 +0800" channel="TV5.ph">
+    <title lang="en">Cassandra: Warrior Angel</title>
+  </programme>
+  <programme start="20261020233000 +0800" stop="20261021003000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe Nights / Oras ng Himala</title>
+  </programme>
+  <programme start="20261020053000 +0800" stop="20261020060000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261020060000 +0800" stop="20261020070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Knowledge Channel School Anywhere</title>
+  </programme>
+  <programme start="20261020070000 +0800" stop="20261020090000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kids / Rerun Block</title>
+  </programme>
+  <programme start="20261020090000 +0800" stop="20261020100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261020100000 +0800" stop="20261020120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="Kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020160000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Drama</title>
+  </programme>
+  <programme start="20261020160000 +0800" stop="20261020173000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits / Afternoon Zinema</title>
+  </programme>
+  <programme start="20261020173000 +0800" stop="20261020174500 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261020174500 +0800" stop="20261020183000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Minute to Win It / Goin' Bulilit</title>
+  </programme>
+  <programme start="20261020183000 +0800" stop="20261020200000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 1</title>
+  </programme>
+  <programme start="20261020204500 +0800" stop="20261020213000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 2</title>
+  </programme>
+  <programme start="20261020213000 +0800" stop="20261020221500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 3</title>
+  </programme>
+  <programme start="20261020221500 +0800" stop="20261020224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 4 / Asian Drama</title>
+  </programme>
+  <programme start="20261020224500 +0800" stop="20261020231500 +0800" channel="Kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261020231500 +0800" stop="20261021020000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20261020053000 +0800" stop="20261020060000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261020060000 +0800" stop="20261020090000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Knowledge Channel / Kids</title>
+  </programme>
+  <programme start="20261020090000 +0800" stop="20261020100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261020100000 +0800" stop="20261020120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="ALLTV2.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020173000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Gold</title>
+  </programme>
+  <programme start="20261020173000 +0800" stop="20261020174500 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261020174500 +0800" stop="20261020183000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Minute to Win It</title>
+  </programme>
+  <programme start="20261020183000 +0800" stop="20261020200000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020224500 +0800" channel="ALLTV2.ph">
+    <title lang="en">Primetime Bida</title>
+  </programme>
+  <programme start="20261020224500 +0800" stop="20261020231500 +0800" channel="ALLTV2.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261020050000 +0800" stop="20261020060000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle: Honoring God Through Music</title>
+  </programme>
+  <programme start="20261020060000 +0800" stop="20261020070000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20261020070000 +0800" stop="20261020080000 +0800" channel="A2Z.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20261020080000 +0800" stop="20261020090000 +0800" channel="A2Z.ph">
+    <title lang="en">The Flying House / Superbook</title>
+  </programme>
+  <programme start="20261020090000 +0800" stop="20261020100000 +0800" channel="A2Z.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261020100000 +0800" stop="20261020120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="A2Z.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020173000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Reruns / Zinema</title>
+  </programme>
+  <programme start="20261020173000 +0800" stop="20261020174500 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261020174500 +0800" stop="20261020183000 +0800" channel="A2Z.ph">
+    <title lang="en">Primetime Preview</title>
+  </programme>
+  <programme start="20261020183000 +0800" stop="20261020200000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020224500 +0800" channel="A2Z.ph">
+    <title lang="en">Kapamilya Primetime (simulcast)</title>
+  </programme>
+  <programme start="20261020224500 +0800" stop="20261020231500 +0800" channel="A2Z.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20261020231500 +0800" stop="20261021000000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Classics (replay)</title>
+  </programme>
+  <programme start="20261020000000 +0800" stop="20261020053000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Teleserye Marathon (overnight)</title>
+  </programme>
+  <programme start="20261020053000 +0800" stop="20261020063000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261020063000 +0800" stop="20261020073000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261020073000 +0800" stop="20261020080000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Kapamilya Daily Mass (delayed)</title>
+  </programme>
+  <programme start="20261020080000 +0800" stop="20261020090000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020090000 +0800" stop="20261020100000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Magandang Buhay (simulcast)</title>
+  </programme>
+  <programme start="20261020100000 +0800" stop="20261020110000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Annaliza etc.</title>
+  </programme>
+  <programme start="20261020110000 +0800" stop="20261020120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020130000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020130000 +0800" stop="20261020140000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020140000 +0800" stop="20261020153000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / PHR</title>
+  </programme>
+  <programme start="20261020153000 +0800" stop="20261020170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020170000 +0800" stop="20261020173000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020173000 +0800" stop="20261020174500 +0800" channel="JeepneyTV.ph">
+    <title lang="en">TV Patrol Express (simulcast)</title>
+  </programme>
+  <programme start="20261020174500 +0800" stop="20261020220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261020220000 +0800" stop="20261021000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Late Night</title>
+  </programme>
+  <programme start="20261020053000 +0800" stop="20261020080000 +0800" channel="GMA.ph">
+    <title lang="en">Unang Hirit</title>
+  </programme>
+  <programme start="20261020080000 +0800" stop="20261020090000 +0800" channel="GMA.ph">
+    <title lang="en">Anime / Kids Block</title>
+  </programme>
+  <programme start="20261020090000 +0800" stop="20261020110000 +0800" channel="GMA.ph">
+    <title lang="en">Morning Talk / Variety</title>
+  </programme>
+  <programme start="20261020110000 +0800" stop="20261020120000 +0800" channel="GMA.ph">
+    <title lang="en">TiktoClock</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020152000 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261020152000 +0800" stop="20261020160500 +0800" channel="GMA.ph">
+    <title lang="en">Delivery Boi / Afternoon Drama</title>
+  </programme>
+  <programme start="20261020160500 +0800" stop="20261020163000 +0800" channel="GMA.ph">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme start="20261020163000 +0800" stop="20261020171000 +0800" channel="GMA.ph">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme start="20261020171000 +0800" stop="20261020174000 +0800" channel="GMA.ph">
+    <title lang="en">Encantadia (rerun)</title>
+  </programme>
+  <programme start="20261020174000 +0800" stop="20261020183000 +0800" channel="GMA.ph">
+    <title lang="en">Family Feud Philippines</title>
+  </programme>
+  <programme start="20261020183000 +0800" stop="20261020200000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020205000 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 1</title>
+  </programme>
+  <programme start="20261020205000 +0800" stop="20261020213500 +0800" channel="GMA.ph">
+    <title lang="en">Taskforce Firewall</title>
+  </programme>
+  <programme start="20261020213500 +0800" stop="20261020221500 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 3</title>
+  </programme>
+  <programme start="20261020221500 +0800" stop="20261020230000 +0800" channel="GMA.ph">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme start="20261020230000 +0800" stop="20261021000000 +0800" channel="GMA.ph">
+    <title lang="en">Late Night / Asian Drama</title>
+  </programme>
+  <programme start="20261020053000 +0800" stop="20261020090000 +0800" channel="GTV.ph">
+    <title lang="en">Dobol B TV / Buena Manong Balita</title>
+  </programme>
+  <programme start="20261020090000 +0800" stop="20261020110000 +0800" channel="GTV.ph">
+    <title lang="en">Cinema G!</title>
+  </programme>
+  <programme start="20261020110000 +0800" stop="20261020120000 +0800" channel="GTV.ph">
+    <title lang="en">Balitanghali</title>
+  </programme>
+  <programme start="20261020120000 +0800" stop="20261020143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+  </programme>
+  <programme start="20261020143000 +0800" stop="20261020150000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 1</title>
+  </programme>
+  <programme start="20261020150000 +0800" stop="20261020153000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 2</title>
+  </programme>
+  <programme start="20261020153000 +0800" stop="20261020174500 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break / Regal</title>
+  </programme>
+  <programme start="20261020174500 +0800" stop="20261020183000 +0800" channel="GTV.ph">
+    <title lang="en">Luv Is / Afternoon Series</title>
+  </programme>
+  <programme start="20261020183000 +0800" stop="20261020200000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras (simulcast)</title>
+  </programme>
+  <programme start="20261020200000 +0800" stop="20261020214500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20261020214500 +0800" stop="20261020223000 +0800" channel="GTV.ph">
+    <title lang="en">Encantadia Chronicles: Sang'gre</title>
+  </programme>
+  <programme start="20261020223000 +0800" stop="20261020230500 +0800" channel="GTV.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+  </programme>
+  <programme start="20261020230500 +0800" stop="20261020233000 +0800" channel="GTV.ph">
+    <title lang="en">State of the Nation</title>
+  </programme>
+  <programme start="20261020233000 +0800" stop="20261021000000 +0800" channel="GTV.ph">
+    <title lang="en">Beauty Empire / Late Night</title>
+  </programme>
+  <programme start="20261021043000 +0800" stop="20261021053000 +0800" channel="TV5.ph">
+    <title lang="en">Mga Kwentong MX3</title>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021080000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline sa Umaga</title>
+  </programme>
+  <programme start="20261021080000 +0800" stop="20261021083000 +0800" channel="TV5.ph">
+    <title lang="en">Chibi Maruko Chan</title>
+  </programme>
+  <programme start="20261021083000 +0800" stop="20261021103000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261021103000 +0800" stop="20261021110000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express AM</title>
+  </programme>
+  <programme start="20261021110000 +0800" stop="20261021120000 +0800" channel="TV5.ph">
+    <title lang="en">Gandang Mornings with Ate Koring</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+  </programme>
+  <programme start="20261021143000 +0800" stop="20261021151500 +0800" channel="TV5.ph">
+    <title lang="en">Mommy Guard / Afternoon Series</title>
+  </programme>
+  <programme start="20261021151500 +0800" stop="20261021160000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express PM</title>
+  </programme>
+  <programme start="20261021160000 +0800" stop="20261021164500 +0800" channel="TV5.ph">
+    <title lang="en">Suntok sa Buwan</title>
+  </programme>
+  <programme start="20261021164500 +0800" stop="20261021173000 +0800" channel="TV5.ph">
+    <title lang="en">Knight Rider</title>
+  </programme>
+  <programme start="20261021173000 +0800" stop="20261021180000 +0800" channel="TV5.ph">
+    <title lang="en">Jasmine</title>
+  </programme>
+  <programme start="20261021180000 +0800" stop="20261021183000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas: Una sa Lahat</title>
+  </programme>
+  <programme start="20261021183000 +0800" stop="20261021200000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20261021200000 +0800" stop="20261021204500 +0800" channel="TV5.ph">
+    <title lang="en">Sigabo</title>
+  </programme>
+  <programme start="20261021204500 +0800" stop="20261021213000 +0800" channel="TV5.ph">
+    <title lang="en">Someone, Someday</title>
+  </programme>
+  <programme start="20261021213000 +0800" stop="20261021221500 +0800" channel="TV5.ph">
+    <title lang="en">The Loyalty Game: Level Up</title>
+  </programme>
+  <programme start="20261021221500 +0800" stop="20261021224500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Tonight</title>
+  </programme>
+  <programme start="20261021224500 +0800" stop="20261021233000 +0800" channel="TV5.ph">
+    <title lang="en">Cassandra: Warrior Angel</title>
+  </programme>
+  <programme start="20261021233000 +0800" stop="20261022003000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe Nights / Oras ng Himala</title>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021060000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261021060000 +0800" stop="20261021070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Knowledge Channel School Anywhere</title>
+  </programme>
+  <programme start="20261021070000 +0800" stop="20261021090000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kids / Rerun Block</title>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261021100000 +0800" stop="20261021120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021143000 +0800" channel="Kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261021143000 +0800" stop="20261021160000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Drama</title>
+  </programme>
+  <programme start="20261021160000 +0800" stop="20261021173000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits / Afternoon Zinema</title>
+  </programme>
+  <programme start="20261021173000 +0800" stop="20261021174500 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261021174500 +0800" stop="20261021183000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Minute to Win It / Goin' Bulilit</title>
+  </programme>
+  <programme start="20261021183000 +0800" stop="20261021200000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261021200000 +0800" stop="20261021204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 1</title>
+  </programme>
+  <programme start="20261021204500 +0800" stop="20261021213000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 2</title>
+  </programme>
+  <programme start="20261021213000 +0800" stop="20261021221500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 3</title>
+  </programme>
+  <programme start="20261021221500 +0800" stop="20261021224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 4 / Asian Drama</title>
+  </programme>
+  <programme start="20261021224500 +0800" stop="20261021231500 +0800" channel="Kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261021231500 +0800" stop="20261022020000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021060000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261021060000 +0800" stop="20261021090000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Knowledge Channel / Kids</title>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261021100000 +0800" stop="20261021120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021143000 +0800" channel="ALLTV2.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261021143000 +0800" stop="20261021173000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Gold</title>
+  </programme>
+  <programme start="20261021173000 +0800" stop="20261021174500 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261021174500 +0800" stop="20261021183000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Minute to Win It</title>
+  </programme>
+  <programme start="20261021183000 +0800" stop="20261021200000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261021200000 +0800" stop="20261021224500 +0800" channel="ALLTV2.ph">
+    <title lang="en">Primetime Bida</title>
+  </programme>
+  <programme start="20261021224500 +0800" stop="20261021231500 +0800" channel="ALLTV2.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261021050000 +0800" stop="20261021060000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle: Honoring God Through Music</title>
+  </programme>
+  <programme start="20261021060000 +0800" stop="20261021070000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20261021070000 +0800" stop="20261021080000 +0800" channel="A2Z.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20261021080000 +0800" stop="20261021090000 +0800" channel="A2Z.ph">
+    <title lang="en">The Flying House / Superbook</title>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021100000 +0800" channel="A2Z.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261021100000 +0800" stop="20261021120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021143000 +0800" channel="A2Z.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261021143000 +0800" stop="20261021173000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Reruns / Zinema</title>
+  </programme>
+  <programme start="20261021173000 +0800" stop="20261021174500 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261021174500 +0800" stop="20261021183000 +0800" channel="A2Z.ph">
+    <title lang="en">Primetime Preview</title>
+  </programme>
+  <programme start="20261021183000 +0800" stop="20261021200000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261021200000 +0800" stop="20261021224500 +0800" channel="A2Z.ph">
+    <title lang="en">Kapamilya Primetime (simulcast)</title>
+  </programme>
+  <programme start="20261021224500 +0800" stop="20261021231500 +0800" channel="A2Z.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20261021231500 +0800" stop="20261022000000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Classics (replay)</title>
+  </programme>
+  <programme start="20261021000000 +0800" stop="20261021053000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Teleserye Marathon (overnight)</title>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021063000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261021063000 +0800" stop="20261021073000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261021073000 +0800" stop="20261021080000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Kapamilya Daily Mass (delayed)</title>
+  </programme>
+  <programme start="20261021080000 +0800" stop="20261021090000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021100000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Magandang Buhay (simulcast)</title>
+  </programme>
+  <programme start="20261021100000 +0800" stop="20261021110000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Annaliza etc.</title>
+  </programme>
+  <programme start="20261021110000 +0800" stop="20261021120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021130000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021130000 +0800" stop="20261021140000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021140000 +0800" stop="20261021153000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / PHR</title>
+  </programme>
+  <programme start="20261021153000 +0800" stop="20261021170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021170000 +0800" stop="20261021173000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021173000 +0800" stop="20261021174500 +0800" channel="JeepneyTV.ph">
+    <title lang="en">TV Patrol Express (simulcast)</title>
+  </programme>
+  <programme start="20261021174500 +0800" stop="20261021220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261021220000 +0800" stop="20261022000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Late Night</title>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021080000 +0800" channel="GMA.ph">
+    <title lang="en">Unang Hirit</title>
+  </programme>
+  <programme start="20261021080000 +0800" stop="20261021090000 +0800" channel="GMA.ph">
+    <title lang="en">Anime / Kids Block</title>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021110000 +0800" channel="GMA.ph">
+    <title lang="en">Morning Talk / Variety</title>
+  </programme>
+  <programme start="20261021110000 +0800" stop="20261021120000 +0800" channel="GMA.ph">
+    <title lang="en">TiktoClock</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261021143000 +0800" stop="20261021152000 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261021152000 +0800" stop="20261021160500 +0800" channel="GMA.ph">
+    <title lang="en">Delivery Boi / Afternoon Drama</title>
+  </programme>
+  <programme start="20261021160500 +0800" stop="20261021163000 +0800" channel="GMA.ph">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme start="20261021163000 +0800" stop="20261021171000 +0800" channel="GMA.ph">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme start="20261021171000 +0800" stop="20261021174000 +0800" channel="GMA.ph">
+    <title lang="en">Encantadia (rerun)</title>
+  </programme>
+  <programme start="20261021174000 +0800" stop="20261021183000 +0800" channel="GMA.ph">
+    <title lang="en">Family Feud Philippines</title>
+  </programme>
+  <programme start="20261021183000 +0800" stop="20261021200000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20261021200000 +0800" stop="20261021205000 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 1</title>
+  </programme>
+  <programme start="20261021205000 +0800" stop="20261021213500 +0800" channel="GMA.ph">
+    <title lang="en">Taskforce Firewall</title>
+  </programme>
+  <programme start="20261021213500 +0800" stop="20261021221500 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 3</title>
+  </programme>
+  <programme start="20261021221500 +0800" stop="20261021230000 +0800" channel="GMA.ph">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme start="20261021230000 +0800" stop="20261022000000 +0800" channel="GMA.ph">
+    <title lang="en">Late Night / Asian Drama</title>
+  </programme>
+  <programme start="20261021053000 +0800" stop="20261021090000 +0800" channel="GTV.ph">
+    <title lang="en">Dobol B TV / Buena Manong Balita</title>
+  </programme>
+  <programme start="20261021090000 +0800" stop="20261021110000 +0800" channel="GTV.ph">
+    <title lang="en">Cinema G!</title>
+  </programme>
+  <programme start="20261021110000 +0800" stop="20261021120000 +0800" channel="GTV.ph">
+    <title lang="en">Balitanghali</title>
+  </programme>
+  <programme start="20261021120000 +0800" stop="20261021143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+  </programme>
+  <programme start="20261021143000 +0800" stop="20261021150000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 1</title>
+  </programme>
+  <programme start="20261021150000 +0800" stop="20261021153000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 2</title>
+  </programme>
+  <programme start="20261021153000 +0800" stop="20261021174500 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break / Regal</title>
+  </programme>
+  <programme start="20261021174500 +0800" stop="20261021183000 +0800" channel="GTV.ph">
+    <title lang="en">Luv Is / Afternoon Series</title>
+  </programme>
+  <programme start="20261021183000 +0800" stop="20261021200000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras (simulcast)</title>
+  </programme>
+  <programme start="20261021200000 +0800" stop="20261021214500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20261021214500 +0800" stop="20261021223000 +0800" channel="GTV.ph">
+    <title lang="en">Encantadia Chronicles: Sang'gre</title>
+  </programme>
+  <programme start="20261021223000 +0800" stop="20261021230500 +0800" channel="GTV.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+  </programme>
+  <programme start="20261021230500 +0800" stop="20261021233000 +0800" channel="GTV.ph">
+    <title lang="en">State of the Nation</title>
+  </programme>
+  <programme start="20261021233000 +0800" stop="20261022000000 +0800" channel="GTV.ph">
+    <title lang="en">Beauty Empire / Late Night</title>
+  </programme>
+  <programme start="20261022043000 +0800" stop="20261022053000 +0800" channel="TV5.ph">
+    <title lang="en">Mga Kwentong MX3</title>
+  </programme>
+  <programme start="20261022053000 +0800" stop="20261022080000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline sa Umaga</title>
+  </programme>
+  <programme start="20261022080000 +0800" stop="20261022083000 +0800" channel="TV5.ph">
+    <title lang="en">Chibi Maruko Chan</title>
+  </programme>
+  <programme start="20261022083000 +0800" stop="20261022103000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261022103000 +0800" stop="20261022110000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express AM</title>
+  </programme>
+  <programme start="20261022110000 +0800" stop="20261022120000 +0800" channel="TV5.ph">
+    <title lang="en">Gandang Mornings with Ate Koring</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+  </programme>
+  <programme start="20261022143000 +0800" stop="20261022151500 +0800" channel="TV5.ph">
+    <title lang="en">Mommy Guard / Afternoon Series</title>
+  </programme>
+  <programme start="20261022151500 +0800" stop="20261022160000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express PM</title>
+  </programme>
+  <programme start="20261022160000 +0800" stop="20261022164500 +0800" channel="TV5.ph">
+    <title lang="en">Suntok sa Buwan</title>
+  </programme>
+  <programme start="20261022164500 +0800" stop="20261022173000 +0800" channel="TV5.ph">
+    <title lang="en">Knight Rider</title>
+  </programme>
+  <programme start="20261022173000 +0800" stop="20261022180000 +0800" channel="TV5.ph">
+    <title lang="en">Jasmine</title>
+  </programme>
+  <programme start="20261022180000 +0800" stop="20261022183000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas: Una sa Lahat</title>
+  </programme>
+  <programme start="20261022183000 +0800" stop="20261022200000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20261022200000 +0800" stop="20261022204500 +0800" channel="TV5.ph">
+    <title lang="en">Sigabo</title>
+  </programme>
+  <programme start="20261022204500 +0800" stop="20261022213000 +0800" channel="TV5.ph">
+    <title lang="en">Someone, Someday</title>
+  </programme>
+  <programme start="20261022213000 +0800" stop="20261022221500 +0800" channel="TV5.ph">
+    <title lang="en">The Loyalty Game: Level Up</title>
+  </programme>
+  <programme start="20261022221500 +0800" stop="20261022224500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Tonight</title>
+  </programme>
+  <programme start="20261022224500 +0800" stop="20261022233000 +0800" channel="TV5.ph">
+    <title lang="en">Cassandra: Warrior Angel</title>
+  </programme>
+  <programme start="20261022233000 +0800" stop="20261023003000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe Nights / Oras ng Himala</title>
+  </programme>
+  <programme start="20261022053000 +0800" stop="20261022060000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261022060000 +0800" stop="20261022070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Knowledge Channel School Anywhere</title>
+  </programme>
+  <programme start="20261022070000 +0800" stop="20261022090000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kids / Rerun Block</title>
+  </programme>
+  <programme start="20261022090000 +0800" stop="20261022100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261022100000 +0800" stop="20261022120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022143000 +0800" channel="Kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261022143000 +0800" stop="20261022160000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Drama</title>
+  </programme>
+  <programme start="20261022160000 +0800" stop="20261022173000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits / Afternoon Zinema</title>
+  </programme>
+  <programme start="20261022173000 +0800" stop="20261022174500 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261022174500 +0800" stop="20261022183000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Minute to Win It / Goin' Bulilit</title>
+  </programme>
+  <programme start="20261022183000 +0800" stop="20261022200000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261022200000 +0800" stop="20261022204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 1</title>
+  </programme>
+  <programme start="20261022204500 +0800" stop="20261022213000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 2</title>
+  </programme>
+  <programme start="20261022213000 +0800" stop="20261022221500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 3</title>
+  </programme>
+  <programme start="20261022221500 +0800" stop="20261022224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 4 / Asian Drama</title>
+  </programme>
+  <programme start="20261022224500 +0800" stop="20261022231500 +0800" channel="Kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261022231500 +0800" stop="20261023020000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20261022053000 +0800" stop="20261022060000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261022060000 +0800" stop="20261022090000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Knowledge Channel / Kids</title>
+  </programme>
+  <programme start="20261022090000 +0800" stop="20261022100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261022100000 +0800" stop="20261022120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022143000 +0800" channel="ALLTV2.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261022143000 +0800" stop="20261022173000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Gold</title>
+  </programme>
+  <programme start="20261022173000 +0800" stop="20261022174500 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261022174500 +0800" stop="20261022183000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Minute to Win It</title>
+  </programme>
+  <programme start="20261022183000 +0800" stop="20261022200000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261022200000 +0800" stop="20261022224500 +0800" channel="ALLTV2.ph">
+    <title lang="en">Primetime Bida</title>
+  </programme>
+  <programme start="20261022224500 +0800" stop="20261022231500 +0800" channel="ALLTV2.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261022050000 +0800" stop="20261022060000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle: Honoring God Through Music</title>
+  </programme>
+  <programme start="20261022060000 +0800" stop="20261022070000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20261022070000 +0800" stop="20261022080000 +0800" channel="A2Z.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20261022080000 +0800" stop="20261022090000 +0800" channel="A2Z.ph">
+    <title lang="en">The Flying House / Superbook</title>
+  </programme>
+  <programme start="20261022090000 +0800" stop="20261022100000 +0800" channel="A2Z.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261022100000 +0800" stop="20261022120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022143000 +0800" channel="A2Z.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261022143000 +0800" stop="20261022173000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Reruns / Zinema</title>
+  </programme>
+  <programme start="20261022173000 +0800" stop="20261022174500 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261022174500 +0800" stop="20261022183000 +0800" channel="A2Z.ph">
+    <title lang="en">Primetime Preview</title>
+  </programme>
+  <programme start="20261022183000 +0800" stop="20261022200000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261022200000 +0800" stop="20261022224500 +0800" channel="A2Z.ph">
+    <title lang="en">Kapamilya Primetime (simulcast)</title>
+  </programme>
+  <programme start="20261022224500 +0800" stop="20261022231500 +0800" channel="A2Z.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20261022231500 +0800" stop="20261023000000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Classics (replay)</title>
+  </programme>
+  <programme start="20261022000000 +0800" stop="20261022053000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Teleserye Marathon (overnight)</title>
+  </programme>
+  <programme start="20261022053000 +0800" stop="20261022063000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261022063000 +0800" stop="20261022073000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261022073000 +0800" stop="20261022080000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Kapamilya Daily Mass (delayed)</title>
+  </programme>
+  <programme start="20261022080000 +0800" stop="20261022090000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022090000 +0800" stop="20261022100000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Magandang Buhay (simulcast)</title>
+  </programme>
+  <programme start="20261022100000 +0800" stop="20261022110000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Annaliza etc.</title>
+  </programme>
+  <programme start="20261022110000 +0800" stop="20261022120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022130000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022130000 +0800" stop="20261022140000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022140000 +0800" stop="20261022153000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / PHR</title>
+  </programme>
+  <programme start="20261022153000 +0800" stop="20261022170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022170000 +0800" stop="20261022173000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022173000 +0800" stop="20261022174500 +0800" channel="JeepneyTV.ph">
+    <title lang="en">TV Patrol Express (simulcast)</title>
+  </programme>
+  <programme start="20261022174500 +0800" stop="20261022220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261022220000 +0800" stop="20261023000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Late Night</title>
+  </programme>
+  <programme start="20261022053000 +0800" stop="20261022080000 +0800" channel="GMA.ph">
+    <title lang="en">Unang Hirit</title>
+  </programme>
+  <programme start="20261022080000 +0800" stop="20261022090000 +0800" channel="GMA.ph">
+    <title lang="en">Anime / Kids Block</title>
+  </programme>
+  <programme start="20261022090000 +0800" stop="20261022110000 +0800" channel="GMA.ph">
+    <title lang="en">Morning Talk / Variety</title>
+  </programme>
+  <programme start="20261022110000 +0800" stop="20261022120000 +0800" channel="GMA.ph">
+    <title lang="en">TiktoClock</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261022143000 +0800" stop="20261022152000 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261022152000 +0800" stop="20261022160500 +0800" channel="GMA.ph">
+    <title lang="en">Delivery Boi / Afternoon Drama</title>
+  </programme>
+  <programme start="20261022160500 +0800" stop="20261022163000 +0800" channel="GMA.ph">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme start="20261022163000 +0800" stop="20261022171000 +0800" channel="GMA.ph">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme start="20261022171000 +0800" stop="20261022174000 +0800" channel="GMA.ph">
+    <title lang="en">Encantadia (rerun)</title>
+  </programme>
+  <programme start="20261022174000 +0800" stop="20261022183000 +0800" channel="GMA.ph">
+    <title lang="en">Family Feud Philippines</title>
+  </programme>
+  <programme start="20261022183000 +0800" stop="20261022200000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20261022200000 +0800" stop="20261022205000 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 1</title>
+  </programme>
+  <programme start="20261022205000 +0800" stop="20261022213500 +0800" channel="GMA.ph">
+    <title lang="en">Taskforce Firewall</title>
+  </programme>
+  <programme start="20261022213500 +0800" stop="20261022221500 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 3</title>
+  </programme>
+  <programme start="20261022221500 +0800" stop="20261022230000 +0800" channel="GMA.ph">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme start="20261022230000 +0800" stop="20261023000000 +0800" channel="GMA.ph">
+    <title lang="en">Late Night / Asian Drama</title>
+  </programme>
+  <programme start="20261022053000 +0800" stop="20261022090000 +0800" channel="GTV.ph">
+    <title lang="en">Dobol B TV / Buena Manong Balita</title>
+  </programme>
+  <programme start="20261022090000 +0800" stop="20261022110000 +0800" channel="GTV.ph">
+    <title lang="en">Cinema G!</title>
+  </programme>
+  <programme start="20261022110000 +0800" stop="20261022120000 +0800" channel="GTV.ph">
+    <title lang="en">Balitanghali</title>
+  </programme>
+  <programme start="20261022120000 +0800" stop="20261022143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+  </programme>
+  <programme start="20261022143000 +0800" stop="20261022150000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 1</title>
+  </programme>
+  <programme start="20261022150000 +0800" stop="20261022153000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 2</title>
+  </programme>
+  <programme start="20261022153000 +0800" stop="20261022174500 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break / Regal</title>
+  </programme>
+  <programme start="20261022174500 +0800" stop="20261022183000 +0800" channel="GTV.ph">
+    <title lang="en">Luv Is / Afternoon Series</title>
+  </programme>
+  <programme start="20261022183000 +0800" stop="20261022200000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras (simulcast)</title>
+  </programme>
+  <programme start="20261022200000 +0800" stop="20261022214500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20261022214500 +0800" stop="20261022223000 +0800" channel="GTV.ph">
+    <title lang="en">Encantadia Chronicles: Sang'gre</title>
+  </programme>
+  <programme start="20261022223000 +0800" stop="20261022230500 +0800" channel="GTV.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+  </programme>
+  <programme start="20261022230500 +0800" stop="20261022233000 +0800" channel="GTV.ph">
+    <title lang="en">State of the Nation</title>
+  </programme>
+  <programme start="20261022233000 +0800" stop="20261023000000 +0800" channel="GTV.ph">
+    <title lang="en">Beauty Empire / Late Night</title>
+  </programme>
+  <programme start="20261023043000 +0800" stop="20261023053000 +0800" channel="TV5.ph">
+    <title lang="en">Mga Kwentong MX3</title>
+  </programme>
+  <programme start="20261023053000 +0800" stop="20261023080000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline sa Umaga</title>
+  </programme>
+  <programme start="20261023080000 +0800" stop="20261023083000 +0800" channel="TV5.ph">
+    <title lang="en">Chibi Maruko Chan</title>
+  </programme>
+  <programme start="20261023083000 +0800" stop="20261023103000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261023103000 +0800" stop="20261023110000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express AM</title>
+  </programme>
+  <programme start="20261023110000 +0800" stop="20261023120000 +0800" channel="TV5.ph">
+    <title lang="en">Gandang Mornings with Ate Koring</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+  </programme>
+  <programme start="20261023143000 +0800" stop="20261023151500 +0800" channel="TV5.ph">
+    <title lang="en">Mommy Guard / Afternoon Series</title>
+  </programme>
+  <programme start="20261023151500 +0800" stop="20261023160000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express PM</title>
+  </programme>
+  <programme start="20261023160000 +0800" stop="20261023164500 +0800" channel="TV5.ph">
+    <title lang="en">Suntok sa Buwan</title>
+  </programme>
+  <programme start="20261023164500 +0800" stop="20261023173000 +0800" channel="TV5.ph">
+    <title lang="en">Knight Rider</title>
+  </programme>
+  <programme start="20261023173000 +0800" stop="20261023180000 +0800" channel="TV5.ph">
+    <title lang="en">Jasmine</title>
+  </programme>
+  <programme start="20261023180000 +0800" stop="20261023183000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas: Una sa Lahat</title>
+  </programme>
+  <programme start="20261023183000 +0800" stop="20261023200000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20261023200000 +0800" stop="20261023204500 +0800" channel="TV5.ph">
+    <title lang="en">Sigabo</title>
+  </programme>
+  <programme start="20261023204500 +0800" stop="20261023213000 +0800" channel="TV5.ph">
+    <title lang="en">Someone, Someday</title>
+  </programme>
+  <programme start="20261023213000 +0800" stop="20261023221500 +0800" channel="TV5.ph">
+    <title lang="en">The Loyalty Game: Level Up</title>
+  </programme>
+  <programme start="20261023221500 +0800" stop="20261023224500 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Tonight</title>
+  </programme>
+  <programme start="20261023224500 +0800" stop="20261023233000 +0800" channel="TV5.ph">
+    <title lang="en">Cassandra: Warrior Angel</title>
+  </programme>
+  <programme start="20261023233000 +0800" stop="20261024003000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe Nights / Oras ng Himala</title>
+  </programme>
+  <programme start="20261023053000 +0800" stop="20261023060000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261023060000 +0800" stop="20261023070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Knowledge Channel School Anywhere</title>
+  </programme>
+  <programme start="20261023070000 +0800" stop="20261023090000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kids / Rerun Block</title>
+  </programme>
+  <programme start="20261023090000 +0800" stop="20261023100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261023100000 +0800" stop="20261023120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023143000 +0800" channel="Kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261023143000 +0800" stop="20261023160000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Drama</title>
+  </programme>
+  <programme start="20261023160000 +0800" stop="20261023173000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits / Afternoon Zinema</title>
+  </programme>
+  <programme start="20261023173000 +0800" stop="20261023174500 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261023174500 +0800" stop="20261023183000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Minute to Win It / Goin' Bulilit</title>
+  </programme>
+  <programme start="20261023183000 +0800" stop="20261023200000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261023200000 +0800" stop="20261023204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 1</title>
+  </programme>
+  <programme start="20261023204500 +0800" stop="20261023213000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 2</title>
+  </programme>
+  <programme start="20261023213000 +0800" stop="20261023221500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 3</title>
+  </programme>
+  <programme start="20261023221500 +0800" stop="20261023224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Primetime Bida Drama 4 / Asian Drama</title>
+  </programme>
+  <programme start="20261023224500 +0800" stop="20261023231500 +0800" channel="Kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261023231500 +0800" stop="20261024020000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20261023053000 +0800" stop="20261023060000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261023060000 +0800" stop="20261023090000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Knowledge Channel / Kids</title>
+  </programme>
+  <programme start="20261023090000 +0800" stop="20261023100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261023100000 +0800" stop="20261023120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023143000 +0800" channel="ALLTV2.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261023143000 +0800" stop="20261023173000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Gold</title>
+  </programme>
+  <programme start="20261023173000 +0800" stop="20261023174500 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261023174500 +0800" stop="20261023183000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Minute to Win It</title>
+  </programme>
+  <programme start="20261023183000 +0800" stop="20261023200000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261023200000 +0800" stop="20261023224500 +0800" channel="ALLTV2.ph">
+    <title lang="en">Primetime Bida</title>
+  </programme>
+  <programme start="20261023224500 +0800" stop="20261023231500 +0800" channel="ALLTV2.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20261023050000 +0800" stop="20261023060000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle: Honoring God Through Music</title>
+  </programme>
+  <programme start="20261023060000 +0800" stop="20261023070000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20261023070000 +0800" stop="20261023080000 +0800" channel="A2Z.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20261023080000 +0800" stop="20261023090000 +0800" channel="A2Z.ph">
+    <title lang="en">The Flying House / Superbook</title>
+  </programme>
+  <programme start="20261023090000 +0800" stop="20261023100000 +0800" channel="A2Z.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20261023100000 +0800" stop="20261023120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023143000 +0800" channel="A2Z.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261023143000 +0800" stop="20261023173000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Reruns / Zinema</title>
+  </programme>
+  <programme start="20261023173000 +0800" stop="20261023174500 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20261023174500 +0800" stop="20261023183000 +0800" channel="A2Z.ph">
+    <title lang="en">Primetime Preview</title>
+  </programme>
+  <programme start="20261023183000 +0800" stop="20261023200000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20261023200000 +0800" stop="20261023224500 +0800" channel="A2Z.ph">
+    <title lang="en">Kapamilya Primetime (simulcast)</title>
+  </programme>
+  <programme start="20261023224500 +0800" stop="20261023231500 +0800" channel="A2Z.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20261023231500 +0800" stop="20261024000000 +0800" channel="A2Z.ph">
+    <title lang="en">Bro. Eddie Classics (replay)</title>
+  </programme>
+  <programme start="20261023000000 +0800" stop="20261023053000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Teleserye Marathon (overnight)</title>
+  </programme>
+  <programme start="20261023053000 +0800" stop="20261023063000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261023063000 +0800" stop="20261023073000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Drama</title>
+  </programme>
+  <programme start="20261023073000 +0800" stop="20261023080000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Kapamilya Daily Mass (delayed)</title>
+  </programme>
+  <programme start="20261023080000 +0800" stop="20261023090000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023090000 +0800" stop="20261023100000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Magandang Buhay (simulcast)</title>
+  </programme>
+  <programme start="20261023100000 +0800" stop="20261023110000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Annaliza etc.</title>
+  </programme>
+  <programme start="20261023110000 +0800" stop="20261023120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023130000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023130000 +0800" stop="20261023140000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023140000 +0800" stop="20261023153000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / PHR</title>
+  </programme>
+  <programme start="20261023153000 +0800" stop="20261023170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023170000 +0800" stop="20261023173000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023173000 +0800" stop="20261023174500 +0800" channel="JeepneyTV.ph">
+    <title lang="en">TV Patrol Express (simulcast)</title>
+  </programme>
+  <programme start="20261023174500 +0800" stop="20261023220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series</title>
+  </programme>
+  <programme start="20261023220000 +0800" stop="20261024000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Series / Late Night</title>
+  </programme>
+  <programme start="20261023053000 +0800" stop="20261023080000 +0800" channel="GMA.ph">
+    <title lang="en">Unang Hirit</title>
+  </programme>
+  <programme start="20261023080000 +0800" stop="20261023090000 +0800" channel="GMA.ph">
+    <title lang="en">Anime / Kids Block</title>
+  </programme>
+  <programme start="20261023090000 +0800" stop="20261023110000 +0800" channel="GMA.ph">
+    <title lang="en">Morning Talk / Variety</title>
+  </programme>
+  <programme start="20261023110000 +0800" stop="20261023120000 +0800" channel="GMA.ph">
+    <title lang="en">TiktoClock</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261023143000 +0800" stop="20261023152000 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261023152000 +0800" stop="20261023160500 +0800" channel="GMA.ph">
+    <title lang="en">Delivery Boi / Afternoon Drama</title>
+  </programme>
+  <programme start="20261023160500 +0800" stop="20261023163000 +0800" channel="GMA.ph">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme start="20261023163000 +0800" stop="20261023171000 +0800" channel="GMA.ph">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme start="20261023171000 +0800" stop="20261023174000 +0800" channel="GMA.ph">
+    <title lang="en">Encantadia (rerun)</title>
+  </programme>
+  <programme start="20261023174000 +0800" stop="20261023183000 +0800" channel="GMA.ph">
+    <title lang="en">Family Feud Philippines</title>
+  </programme>
+  <programme start="20261023183000 +0800" stop="20261023200000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20261023200000 +0800" stop="20261023205000 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 1</title>
+  </programme>
+  <programme start="20261023205000 +0800" stop="20261023213500 +0800" channel="GMA.ph">
+    <title lang="en">Taskforce Firewall</title>
+  </programme>
+  <programme start="20261023213500 +0800" stop="20261023221500 +0800" channel="GMA.ph">
+    <title lang="en">GMA Prime Drama 3</title>
+  </programme>
+  <programme start="20261023221500 +0800" stop="20261023230000 +0800" channel="GMA.ph">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme start="20261023230000 +0800" stop="20261024000000 +0800" channel="GMA.ph">
+    <title lang="en">Late Night / Asian Drama</title>
+  </programme>
+  <programme start="20261023053000 +0800" stop="20261023090000 +0800" channel="GTV.ph">
+    <title lang="en">Dobol B TV / Buena Manong Balita</title>
+  </programme>
+  <programme start="20261023090000 +0800" stop="20261023110000 +0800" channel="GTV.ph">
+    <title lang="en">Cinema G!</title>
+  </programme>
+  <programme start="20261023110000 +0800" stop="20261023120000 +0800" channel="GTV.ph">
+    <title lang="en">Balitanghali</title>
+  </programme>
+  <programme start="20261023120000 +0800" stop="20261023143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+  </programme>
+  <programme start="20261023143000 +0800" stop="20261023150000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 1</title>
+  </programme>
+  <programme start="20261023150000 +0800" stop="20261023153000 +0800" channel="GTV.ph">
+    <title lang="en">Asian Drama 2</title>
+  </programme>
+  <programme start="20261023153000 +0800" stop="20261023174500 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break / Regal</title>
+  </programme>
+  <programme start="20261023174500 +0800" stop="20261023183000 +0800" channel="GTV.ph">
+    <title lang="en">Luv Is / Afternoon Series</title>
+  </programme>
+  <programme start="20261023183000 +0800" stop="20261023200000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras (simulcast)</title>
+  </programme>
+  <programme start="20261023200000 +0800" stop="20261023214500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20261023214500 +0800" stop="20261023223000 +0800" channel="GTV.ph">
+    <title lang="en">Encantadia Chronicles: Sang'gre</title>
+  </programme>
+  <programme start="20261023223000 +0800" stop="20261023230500 +0800" channel="GTV.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+  </programme>
+  <programme start="20261023230500 +0800" stop="20261023233000 +0800" channel="GTV.ph">
+    <title lang="en">State of the Nation</title>
+  </programme>
+  <programme start="20261023233000 +0800" stop="20261024000000 +0800" channel="GTV.ph">
+    <title lang="en">Beauty Empire / Late Night</title>
+  </programme>
+  <programme start="20261024070000 +0800" stop="20261024073000 +0800" channel="TV5.ph">
+    <title lang="en">Prinsipe Cedie</title>
+  </programme>
+  <programme start="20261024073000 +0800" stop="20261024083000 +0800" channel="TV5.ph">
+    <title lang="en">The Adventures of Tom Sawyer</title>
+  </programme>
+  <programme start="20261024083000 +0800" stop="20261024093000 +0800" channel="TV5.ph">
+    <title lang="en">Little Princess Sarah</title>
+  </programme>
+  <programme start="20261024093000 +0800" stop="20261024112500 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261024112500 +0800" stop="20261024142500 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+  </programme>
+  <programme start="20261024142500 +0800" stop="20261024151000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express</title>
+  </programme>
+  <programme start="20261024151000 +0800" stop="20261024170000 +0800" channel="TV5.ph">
+    <title lang="en">Cine Cinco Hit na Hit</title>
+  </programme>
+  <programme start="20261024170000 +0800" stop="20261024180000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas Weekend</title>
+  </programme>
+  <programme start="20261024180000 +0800" stop="20261024193000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe+</title>
+  </programme>
+  <programme start="20261024193000 +0800" stop="20261024203000 +0800" channel="TV5.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+  </programme>
+  <programme start="20261024203000 +0800" stop="20261024213000 +0800" channel="TV5.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261024213000 +0800" stop="20261024223000 +0800" channel="TV5.ph">
+    <title lang="en">Matteo G Primetime</title>
+  </programme>
+  <programme start="20261024223000 +0800" stop="20261024233000 +0800" channel="TV5.ph">
+    <title lang="en">America's Got Talent</title>
+  </programme>
+  <programme start="20261024233000 +0800" stop="20261025000000 +0800" channel="TV5.ph">
+    <title lang="en">In Touch with Dr. Charles Stanley</title>
+  </programme>
+  <programme start="20261024053000 +0800" stop="20261024060000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261024060000 +0800" stop="20261024083000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kids Block (Bubu, Dinoman, Team YeY)</title>
+  </programme>
+  <programme start="20261024083000 +0800" stop="20261024120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">KB Family Weekend</title>
+  </programme>
+  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="Kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261024143000 +0800" stop="20261024170000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Action Sabado / Movies</title>
+  </programme>
+  <programme start="20261024170000 +0800" stop="20261024180000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261024180000 +0800" stop="20261024193000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Weekend Variety / Game Show</title>
+  </programme>
+  <programme start="20261024193000 +0800" stop="20261024203000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+  </programme>
+  <programme start="20261024203000 +0800" stop="20261024213000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261024213000 +0800" stop="20261025000000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Weekend Special / Blockbusters</title>
+  </programme>
+  <programme start="20261024053000 +0800" stop="20261024060000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20261024060000 +0800" stop="20261024083000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kids Block</title>
+  </programme>
+  <programme start="20261024083000 +0800" stop="20261024120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">KB Family Weekend</title>
+  </programme>
+  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="ALLTV2.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261024143000 +0800" stop="20261024170000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Action / Movies</title>
+  </programme>
+  <programme start="20261024170000 +0800" stop="20261024180000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261024180000 +0800" stop="20261024233000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Weekend Shows</title>
+  </programme>
+  <programme start="20261024060000 +0800" stop="20261024070000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle</title>
+  </programme>
+  <programme start="20261024070000 +0800" stop="20261024080000 +0800" channel="A2Z.ph">
+    <title lang="en">Jesus the Healer</title>
+  </programme>
+  <programme start="20261024080000 +0800" stop="20261024100000 +0800" channel="A2Z.ph">
+    <title lang="en">Kids Block (Bubu, Team YeY, Wansapanataym)</title>
+  </programme>
+  <programme start="20261024100000 +0800" stop="20261024120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="A2Z.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261024143000 +0800" stop="20261024170000 +0800" channel="A2Z.ph">
+    <title lang="en">Zine Aksyon / Afternoon</title>
+  </programme>
+  <programme start="20261024170000 +0800" stop="20261024180000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261024180000 +0800" stop="20261024230000 +0800" channel="A2Z.ph">
+    <title lang="en">Weekend Primetime</title>
+  </programme>
+  <programme start="20261024000000 +0800" stop="20261024073000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Marathon</title>
+  </programme>
+  <programme start="20261024073000 +0800" stop="20261024080000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Kapamilya Daily Mass (delayed)</title>
+  </programme>
+  <programme start="20261024080000 +0800" stop="20261024120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Weekend Block</title>
+  </programme>
+  <programme start="20261024120000 +0800" stop="20261024150000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic / Showtime encore</title>
+  </programme>
+  <programme start="20261024150000 +0800" stop="20261024173000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Action / Drama</title>
+  </programme>
+  <programme start="20261024173000 +0800" stop="20261024180000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">TV Patrol Express / Weekend</title>
+  </programme>
+  <programme start="20261024180000 +0800" stop="20261025000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Primetime Reruns</title>
+  </programme>
+  <programme start="20261024053000 +0800" stop="20261024070000 +0800" channel="GMA.ph">
+    <title lang="en">Kapwa Ko Mahal Ko / Agri</title>
+  </programme>
+  <programme start="20261024070000 +0800" stop="20261024090000 +0800" channel="GMA.ph">
+    <title lang="en">Kids / Anime Block</title>
+  </programme>
+  <programme start="20261024090000 +0800" stop="20261024120000 +0800" channel="GMA.ph">
+    <title lang="en">Morning Variety / Movies</title>
+  </programme>
+  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261024143000 +0800" stop="20261024152000 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261024152000 +0800" stop="20261024173000 +0800" channel="GMA.ph">
+    <title lang="en">Afternoon Block</title>
+  </programme>
+  <programme start="20261024173000 +0800" stop="20261024183000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261024183000 +0800" stop="20261024233000 +0800" channel="GMA.ph">
+    <title lang="en">Saturday Primetime / Variety</title>
+  </programme>
+  <programme start="20261024053000 +0800" stop="20261024090000 +0800" channel="GTV.ph">
+    <title lang="en">Dobol B TV (weekend)</title>
+  </programme>
+  <programme start="20261024090000 +0800" stop="20261024103000 +0800" channel="GTV.ph">
+    <title lang="en">ExperTalk / Healing Galing</title>
+  </programme>
+  <programme start="20261024103000 +0800" stop="20261024120000 +0800" channel="GTV.ph">
+    <title lang="en">Saturday Cinema Hits</title>
+  </programme>
+  <programme start="20261024120000 +0800" stop="20261024143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits / Showtime</title>
+  </programme>
+  <programme start="20261024143000 +0800" stop="20261024173000 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break</title>
+  </programme>
+  <programme start="20261024173000 +0800" stop="20261024183000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261024183000 +0800" stop="20261024201500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20261024201500 +0800" stop="20261024211500 +0800" channel="GTV.ph">
+    <title lang="en">Pinas Sarap / Public Affairs</title>
+  </programme>
+  <programme start="20261024211500 +0800" stop="20261025000000 +0800" channel="GTV.ph">
+    <title lang="en">Weekend Specials</title>
+  </programme>
+  <programme start="20261025053000 +0800" stop="20261025060000 +0800" channel="TV5.ph">
+    <title lang="en">In Touch with Dr. Charles Stanley</title>
+  </programme>
+  <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="TV5.ph">
+    <title lang="en">Sunday Mass</title>
+  </programme>
+  <programme start="20261025070000 +0800" stop="20261025080000 +0800" channel="TV5.ph">
+    <title lang="en">Oras ng Katotohanan</title>
+  </programme>
+  <programme start="20261025080000 +0800" stop="20261025090000 +0800" channel="TV5.ph">
+    <title lang="en">Prinsipe Cedie</title>
+  </programme>
+  <programme start="20261025090000 +0800" stop="20261025100000 +0800" channel="TV5.ph">
+    <title lang="en">The Adventures of Tom Sawyer</title>
+  </programme>
+  <programme start="20261025100000 +0800" stop="20261025120000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025133000 +0800" channel="TV5.ph">
+    <title lang="en">Vibe+ Playback</title>
+  </programme>
+  <programme start="20261025133000 +0800" stop="20261025153000 +0800" channel="TV5.ph">
+    <title lang="en">Cine Cinco Astig Sunday</title>
+  </programme>
+  <programme start="20261025153000 +0800" stop="20261025160000 +0800" channel="TV5.ph">
+    <title lang="en">Julius Babao Unplugged</title>
+  </programme>
+  <programme start="20261025160000 +0800" stop="20261025170000 +0800" channel="TV5.ph">
+    <title lang="en">Rated Korina</title>
+  </programme>
+  <programme start="20261025170000 +0800" stop="20261025180000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas Weekend</title>
+  </programme>
+  <programme start="20261025180000 +0800" stop="20261025190000 +0800" channel="TV5.ph">
+    <title lang="en">Kapatid Mo, Idol Raffy Tulfo</title>
+  </programme>
+  <programme start="20261025190000 +0800" stop="20261025204500 +0800" channel="TV5.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261025204500 +0800" stop="20261025214500 +0800" channel="TV5.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+  </programme>
+  <programme start="20261025214500 +0800" stop="20261025224500 +0800" channel="TV5.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261025224500 +0800" stop="20261026000000 +0800" channel="TV5.ph">
+    <title lang="en">Kapatid Sunday Specials</title>
+  </programme>
+  <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">The Healing Eucharist</title>
+  </programme>
+  <programme start="20261025070000 +0800" stop="20261025100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Educational / Kids Block</title>
+  </programme>
+  <programme start="20261025100000 +0800" stop="20261025120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">KB Family Weekend / Movies</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025140000 +0800" channel="Kapamilya.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261025140000 +0800" stop="20261025170000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Afternoon Specials / Movies</title>
+  </programme>
+  <programme start="20261025170000 +0800" stop="20261025180000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261025180000 +0800" stop="20261025190000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Weekend Primetime</title>
+  </programme>
+  <programme start="20261025190000 +0800" stop="20261025204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">ASAP XP (encore / main)</title>
+  </programme>
+  <programme start="20261025204500 +0800" stop="20261025214500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+  </programme>
+  <programme start="20261025214500 +0800" stop="20261025224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261025224500 +0800" stop="20261026010000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Super Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="ALLTV2.ph">
+    <title lang="en">The Healing Eucharist</title>
+  </programme>
+  <programme start="20261025070000 +0800" stop="20261025100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kids / Educational</title>
+  </programme>
+  <programme start="20261025100000 +0800" stop="20261025120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Movies / Family</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025140000 +0800" channel="ALLTV2.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261025140000 +0800" stop="20261025170000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Afternoon Block</title>
+  </programme>
+  <programme start="20261025170000 +0800" stop="20261025180000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261025180000 +0800" stop="20261025230000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Weekend Primetime + ASAP XP</title>
+  </programme>
+  <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle</title>
+  </programme>
+  <programme start="20261025070000 +0800" stop="20261025090000 +0800" channel="A2Z.ph">
+    <title lang="en">JIL Sunday Worship</title>
+  </programme>
+  <programme start="20261025090000 +0800" stop="20261025100000 +0800" channel="A2Z.ph">
+    <title lang="en">Kids / Team YeY Sunday</title>
+  </programme>
+  <programme start="20261025100000 +0800" stop="20261025120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025140000 +0800" channel="A2Z.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261025140000 +0800" stop="20261025170000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Movies / Specials</title>
+  </programme>
+  <programme start="20261025170000 +0800" stop="20261025180000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261025180000 +0800" stop="20261025230000 +0800" channel="A2Z.ph">
+    <title lang="en">Weekend Primetime + ASAP</title>
+  </programme>
+  <programme start="20261025000000 +0800" stop="20261025060000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Marathon</title>
+  </programme>
+  <programme start="20261025060000 +0800" stop="20261025070000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Healing Eucharist (delayed)</title>
+  </programme>
+  <programme start="20261025070000 +0800" stop="20261025120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Sunday Block</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic / ASAP delayed later</title>
+  </programme>
+  <programme start="20261025170000 +0800" stop="20261025200000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Evening</title>
+  </programme>
+  <programme start="20261025200000 +0800" stop="20261025220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">ASAP XP (delayed telecast)</title>
+  </programme>
+  <programme start="20261025220000 +0800" stop="20261026000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Late Night</title>
+  </programme>
+  <programme start="20261025053000 +0800" stop="20261025070000 +0800" channel="GMA.ph">
+    <title lang="en">Religious / Early</title>
+  </programme>
+  <programme start="20261025070000 +0800" stop="20261025090000 +0800" channel="GMA.ph">
+    <title lang="en">Kids Block</title>
+  </programme>
+  <programme start="20261025090000 +0800" stop="20261025120000 +0800" channel="GMA.ph">
+    <title lang="en">All Out Sundays / Variety</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025150000 +0800" channel="GMA.ph">
+    <title lang="en">Sunday Afternoon Specials</title>
+  </programme>
+  <programme start="20261025150000 +0800" stop="20261025163000 +0800" channel="GMA.ph">
+    <title lang="en">Magpakailanman / Docs</title>
+  </programme>
+  <programme start="20261025163000 +0800" stop="20261025173000 +0800" channel="GMA.ph">
+    <title lang="en">Public Affairs</title>
+  </programme>
+  <programme start="20261025173000 +0800" stop="20261025183000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261025183000 +0800" stop="20261025190000 +0800" channel="GMA.ph">
+    <title lang="en">Sunday Primetime</title>
+  </programme>
+  <programme start="20261025190000 +0800" stop="20261025203000 +0800" channel="GMA.ph">
+    <title lang="en">The Voice Kids</title>
+  </programme>
+  <programme start="20261025203000 +0800" stop="20261025230000 +0800" channel="GMA.ph">
+    <title lang="en">Sunday Specials / Movies</title>
+  </programme>
+  <programme start="20261025060000 +0800" stop="20261025093000 +0800" channel="GTV.ph">
+    <title lang="en">Kids / Anime Block</title>
+  </programme>
+  <programme start="20261025093000 +0800" stop="20261025120000 +0800" channel="GTV.ph">
+    <title lang="en">Sunday Movies / Specials</title>
+  </programme>
+  <programme start="20261025120000 +0800" stop="20261025150000 +0800" channel="GTV.ph">
+    <title lang="en">Sine Date Weekends / Movies</title>
+  </programme>
+  <programme start="20261025150000 +0800" stop="20261025173000 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break</title>
+  </programme>
+  <programme start="20261025173000 +0800" stop="20261025183000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261025183000 +0800" stop="20261025230000 +0800" channel="GTV.ph">
+    <title lang="en">Sunday G! Flicks / Specials</title>
+  </programme>
+</tv>
