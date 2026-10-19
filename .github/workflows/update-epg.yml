@@ -4,7 +4,58 @@ on:
   schedule:
     # Runs every day at 00:15 Asia/Manila (16:15 UTC previous day)
     - cron: "15 16 * * *"
+  workflow_dispatch:  # Allow manual triggername: Update Philippine TV EPG
+
+on:
+  schedule:
+    # Runs every day at 00:15 Asia/Manila (16:15 UTC previous day)
+    - cron: "15 16 * * *"
   workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-epg.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate fresh EPG (current date/time)
+        run: |
+          python scripts/generate_epg.py
+
+      - name: Check for changes
+        id: verify
+        run: |
+          if git diff --quiet epg/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No EPG changes detected."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "EPG updated."
+          fi
+
+      - name: Commit and push updated EPG
+        if: steps.verify.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg/ph-tv-epg.xml epg/ph-tv-epg.xml.gz
+          git commit -m "chore(epg): auto-update programme times $(date -u +%Y-%m-%d)"
+          git push
+
   push:
     branches: [main]
     paths:
