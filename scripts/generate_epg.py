@@ -4,9 +4,8 @@ Philippine TV EPG Generator (XMLTV)
 Generates a rolling 14-day EPG with current date/time awareness.
 Timezone: Asia/Manila (UTC+8)
 Includes: TV5, Kapamilya, ALLTV2, A2Z, JeepneyTV, GMA, GTV,
-          Cinema One Global, TFC Asia, Hallypop, DZMM Teleradyo
+          Cinema One Global, TFC Asia, Hallypop, DZMM Teleradyo, Cinemo PH
 """
-
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
@@ -14,12 +13,10 @@ from xml.dom import minidom
 import os
 import gzip
 import shutil
-
 TZ = ZoneInfo("Asia/Manila")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "epg")
 XML_PATH = os.path.join(OUTPUT_DIR, "ph-tv-epg.xml")
 GZ_PATH = os.path.join(OUTPUT_DIR, "ph-tv-epg.xml.gz")
-
 CHANNELS = [
     {"id": "TV5.ph", "display-name": "TV5", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TV5_Logo_2021.svg/200px-TV5_Logo_2021.svg.png"},
     {"id": "Kapamilya.ph", "display-name": "Kapamilya Channel", "icon": ""},
@@ -32,8 +29,8 @@ CHANNELS = [
     {"id": "TFCAsia.ph", "display-name": "TFC Asia", "icon": ""},
     {"id": "Hallypop.ph", "display-name": "Hallypop", "icon": ""},
     {"id": "DZMMTeleradyo.ph", "display-name": "DZMM Teleradyo", "icon": ""},
+    {"id": "Cinemo.ph", "display-name": "Cinemo PH", "icon": ""},
 ]
-
 # Approximate weekly templates (hour, minute, title, duration_minutes)
 SCHEDULES = {
     "TV5.ph": {
@@ -528,13 +525,54 @@ SCHEDULES = {
             (21, 0, "Weekend Late Night / Music", 180),
         ],
     },
+    # Cinemo PH – pure Pinoy movie channel (ABS-CBN), titles change daily → To Be Announced
+    "Cinemo.ph": {
+        "weekday": [
+            (0, 0, "To Be Announced", 120),
+            (2, 0, "To Be Announced", 120),
+            (4, 0, "To Be Announced", 120),
+            (6, 0, "To Be Announced", 120),
+            (8, 0, "To Be Announced", 120),
+            (10, 0, "To Be Announced", 120),
+            (12, 0, "To Be Announced", 120),
+            (14, 0, "To Be Announced", 120),
+            (16, 0, "To Be Announced", 120),
+            (18, 0, "To Be Announced", 120),
+            (20, 0, "To Be Announced", 120),
+            (22, 0, "To Be Announced", 120),
+        ],
+        "saturday": [
+            (0, 0, "To Be Announced", 120),
+            (2, 0, "To Be Announced", 120),
+            (4, 0, "To Be Announced", 120),
+            (6, 0, "To Be Announced", 120),
+            (8, 0, "To Be Announced", 120),
+            (10, 0, "To Be Announced", 120),
+            (12, 0, "To Be Announced", 120),
+            (14, 0, "To Be Announced", 120),
+            (16, 0, "To Be Announced", 120),
+            (18, 0, "To Be Announced", 120),
+            (20, 0, "To Be Announced", 120),
+            (22, 0, "To Be Announced", 120),
+        ],
+        "sunday": [
+            (0, 0, "To Be Announced", 120),
+            (2, 0, "To Be Announced", 120),
+            (4, 0, "To Be Announced", 120),
+            (6, 0, "To Be Announced", 120),
+            (8, 0, "To Be Announced", 120),
+            (10, 0, "To Be Announced", 120),
+            (12, 0, "To Be Announced", 120),
+            (14, 0, "To Be Announced", 120),
+            (16, 0, "To Be Announced", 120),
+            (18, 0, "To Be Announced", 120),
+            (20, 0, "To Be Announced", 120),
+            (22, 0, "To Be Announced", 120),
+        ],
+    },
 }
-
-
 def fmt(dt: datetime) -> str:
     return dt.strftime("%Y%m%d%H%M%S +0800")
-
-
 def add_programme(root, channel_id, start, stop, title, desc=""):
     prog = ET.SubElement(root, "programme", start=fmt(start), stop=fmt(stop), channel=channel_id)
     t = ET.SubElement(prog, "title", lang="en")
@@ -543,26 +581,21 @@ def add_programme(root, channel_id, start, stop, title, desc=""):
         d = ET.SubElement(prog, "desc", lang="en")
         d.text = desc
     return prog
-
-
 def generate():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     now = datetime.now(TZ)
     base = now.replace(hour=0, minute=0, second=0, microsecond=0)
-
     root = ET.Element("tv", attrib={
         "generator-info-name": "ph-tv-epg",
         "generator-info-url": "https://github.com/YOUR_USERNAME/ph-tv-epg",
         "date": now.strftime("%Y%m%d%H%M%S +0800"),
     })
-
     for ch in CHANNELS:
         c = ET.SubElement(root, "channel", id=ch["id"])
         dn = ET.SubElement(c, "display-name")
         dn.text = ch["display-name"]
         if ch.get("icon"):
             ET.SubElement(c, "icon", src=ch["icon"])
-
     # 14-day rolling guide
     for day_offset in range(14):
         day = base + timedelta(days=day_offset)
@@ -580,23 +613,17 @@ def generate():
                 if stop < now - timedelta(days=1):
                     continue
                 add_programme(root, ch_id, start, stop, title)
-
     rough = ET.tostring(root, encoding="utf-8")
     reparsed = minidom.parseString(rough)
     pretty = reparsed.toprettyxml(indent="  ", encoding="utf-8")
-
     with open(XML_PATH, "wb") as f:
         f.write(pretty)
-
     with open(XML_PATH, "rb") as f_in:
         with gzip.open(GZ_PATH, "wb") as f_out:
             shutil.copyfileobj(f_in, f_out)
-
     print(f"Generated: {XML_PATH}")
     print(f"Generated: {GZ_PATH}")
     print(f"Base date: {base.date()} | Generated at: {now.isoformat()}")
     print(f"Channels: {len(CHANNELS)} | Days: 14")
-
-
 if __name__ == "__main__":
     generate()
