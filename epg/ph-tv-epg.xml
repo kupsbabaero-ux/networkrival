@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="ph-tv-epg" generator-info-url="https://github.com/YOUR_USERNAME/ph-tv-epg" date="20261026201712 +0800">
+<tv generator-info-name="ph-tv-epg" generator-info-url="https://github.com/YOUR_USERNAME/ph-tv-epg" date="20261026203609 +0800">
   <channel id="TV5.ph">
     <display-name>TV5</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TV5_Logo_2021.svg/200px-TV5_Logo_2021.svg.png"/>
@@ -59,7 +59,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261026143000 +0800" stop="20261026151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261026151500 +0800" stop="20261026160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -116,7 +116,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261026143000 +0800" stop="20261026160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261026160000 +0800" stop="20261026173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -131,7 +131,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261026200000 +0800" stop="20261026204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261026204500 +0800" stop="20261026213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -176,7 +176,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261026200000 +0800" stop="20261026224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261026224500 +0800" stop="20261026231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -215,7 +215,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261026200000 +0800" stop="20261026224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261026224500 +0800" stop="20261026231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -254,7 +254,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261026140000 +0800" stop="20261026153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261026153000 +0800" stop="20261026170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -278,7 +278,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261026090000 +0800" stop="20261026110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261026110000 +0800" stop="20261026120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -287,7 +287,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261026143000 +0800" stop="20261026152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261026152000 +0800" stop="20261026160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -308,7 +308,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261026200000 +0800" stop="20261026205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261026205000 +0800" stop="20261026213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -335,10 +335,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261026143000 +0800" stop="20261026150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261026150000 +0800" stop="20261026153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261026153000 +0800" stop="20261026174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -428,7 +428,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261026133000 +0800" stop="20261026141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261026141500 +0800" stop="20261026150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -581,22 +581,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261026000000 +0800" stop="20261026020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261026020000 +0800" stop="20261026040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261026040000 +0800" stop="20261026060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261026060000 +0800" stop="20261026080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261026080000 +0800" stop="20261026100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261026100000 +0800" stop="20261026120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261026120000 +0800" stop="20261026140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -611,10 +611,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261026200000 +0800" stop="20261026220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261026220000 +0800" stop="20261027000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261027043000 +0800" stop="20261027053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -638,7 +638,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261027143000 +0800" stop="20261027151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261027151500 +0800" stop="20261027160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -695,7 +695,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261027143000 +0800" stop="20261027160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261027160000 +0800" stop="20261027173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -710,7 +710,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261027200000 +0800" stop="20261027204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261027204500 +0800" stop="20261027213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -755,7 +755,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261027200000 +0800" stop="20261027224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261027224500 +0800" stop="20261027231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -794,7 +794,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261027200000 +0800" stop="20261027224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261027224500 +0800" stop="20261027231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -833,7 +833,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261027140000 +0800" stop="20261027153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261027153000 +0800" stop="20261027170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -857,7 +857,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261027090000 +0800" stop="20261027110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261027110000 +0800" stop="20261027120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -866,7 +866,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261027143000 +0800" stop="20261027152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261027152000 +0800" stop="20261027160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -887,7 +887,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261027200000 +0800" stop="20261027205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261027205000 +0800" stop="20261027213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -914,10 +914,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261027143000 +0800" stop="20261027150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261027150000 +0800" stop="20261027153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261027153000 +0800" stop="20261027174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -1007,7 +1007,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261027133000 +0800" stop="20261027141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261027141500 +0800" stop="20261027150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -1160,22 +1160,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261027000000 +0800" stop="20261027020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261027020000 +0800" stop="20261027040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261027040000 +0800" stop="20261027060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261027060000 +0800" stop="20261027080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261027080000 +0800" stop="20261027100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261027100000 +0800" stop="20261027120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261027120000 +0800" stop="20261027140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -1190,10 +1190,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261027200000 +0800" stop="20261027220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261027220000 +0800" stop="20261028000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261028043000 +0800" stop="20261028053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -1217,7 +1217,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261028143000 +0800" stop="20261028151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261028151500 +0800" stop="20261028160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -1274,7 +1274,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261028143000 +0800" stop="20261028160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261028160000 +0800" stop="20261028173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -1289,7 +1289,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261028200000 +0800" stop="20261028204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261028204500 +0800" stop="20261028213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -1334,7 +1334,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261028200000 +0800" stop="20261028224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261028224500 +0800" stop="20261028231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -1373,7 +1373,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261028200000 +0800" stop="20261028224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261028224500 +0800" stop="20261028231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -1412,7 +1412,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261028140000 +0800" stop="20261028153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261028153000 +0800" stop="20261028170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -1436,7 +1436,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261028090000 +0800" stop="20261028110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261028110000 +0800" stop="20261028120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -1445,7 +1445,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261028143000 +0800" stop="20261028152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261028152000 +0800" stop="20261028160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -1466,7 +1466,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261028200000 +0800" stop="20261028205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261028205000 +0800" stop="20261028213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -1493,10 +1493,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261028143000 +0800" stop="20261028150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261028150000 +0800" stop="20261028153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261028153000 +0800" stop="20261028174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -1586,7 +1586,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261028133000 +0800" stop="20261028141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261028141500 +0800" stop="20261028150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -1739,22 +1739,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261028000000 +0800" stop="20261028020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261028020000 +0800" stop="20261028040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261028040000 +0800" stop="20261028060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261028060000 +0800" stop="20261028080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261028080000 +0800" stop="20261028100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261028100000 +0800" stop="20261028120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261028120000 +0800" stop="20261028140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -1769,10 +1769,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261028200000 +0800" stop="20261028220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261028220000 +0800" stop="20261029000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261029043000 +0800" stop="20261029053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -1796,7 +1796,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261029143000 +0800" stop="20261029151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261029151500 +0800" stop="20261029160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -1853,7 +1853,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261029143000 +0800" stop="20261029160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261029160000 +0800" stop="20261029173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -1868,7 +1868,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261029200000 +0800" stop="20261029204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261029204500 +0800" stop="20261029213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -1913,7 +1913,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261029200000 +0800" stop="20261029224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261029224500 +0800" stop="20261029231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -1952,7 +1952,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261029200000 +0800" stop="20261029224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261029224500 +0800" stop="20261029231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -1991,7 +1991,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261029140000 +0800" stop="20261029153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261029153000 +0800" stop="20261029170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -2015,7 +2015,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261029090000 +0800" stop="20261029110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261029110000 +0800" stop="20261029120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -2024,7 +2024,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261029143000 +0800" stop="20261029152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261029152000 +0800" stop="20261029160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -2045,7 +2045,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261029200000 +0800" stop="20261029205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261029205000 +0800" stop="20261029213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -2072,10 +2072,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261029143000 +0800" stop="20261029150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261029150000 +0800" stop="20261029153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261029153000 +0800" stop="20261029174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -2165,7 +2165,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261029133000 +0800" stop="20261029141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261029141500 +0800" stop="20261029150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -2318,22 +2318,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261029000000 +0800" stop="20261029020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261029020000 +0800" stop="20261029040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261029040000 +0800" stop="20261029060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261029060000 +0800" stop="20261029080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261029080000 +0800" stop="20261029100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261029100000 +0800" stop="20261029120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261029120000 +0800" stop="20261029140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -2348,10 +2348,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261029200000 +0800" stop="20261029220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261029220000 +0800" stop="20261030000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261030043000 +0800" stop="20261030053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -2375,7 +2375,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261030143000 +0800" stop="20261030151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261030151500 +0800" stop="20261030160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -2432,7 +2432,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261030143000 +0800" stop="20261030160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261030160000 +0800" stop="20261030173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -2447,7 +2447,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261030200000 +0800" stop="20261030204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261030204500 +0800" stop="20261030213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -2492,7 +2492,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261030200000 +0800" stop="20261030224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261030224500 +0800" stop="20261030231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -2531,7 +2531,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261030200000 +0800" stop="20261030224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261030224500 +0800" stop="20261030231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -2570,7 +2570,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261030140000 +0800" stop="20261030153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261030153000 +0800" stop="20261030170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -2594,7 +2594,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261030090000 +0800" stop="20261030110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261030110000 +0800" stop="20261030120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -2603,7 +2603,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261030143000 +0800" stop="20261030152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261030152000 +0800" stop="20261030160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -2624,7 +2624,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261030200000 +0800" stop="20261030205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261030205000 +0800" stop="20261030213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -2651,10 +2651,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261030143000 +0800" stop="20261030150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261030150000 +0800" stop="20261030153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261030153000 +0800" stop="20261030174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -2744,7 +2744,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261030133000 +0800" stop="20261030141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261030141500 +0800" stop="20261030150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -2897,22 +2897,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261030000000 +0800" stop="20261030020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261030020000 +0800" stop="20261030040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261030040000 +0800" stop="20261030060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261030060000 +0800" stop="20261030080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261030080000 +0800" stop="20261030100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261030100000 +0800" stop="20261030120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261030120000 +0800" stop="20261030140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -2927,10 +2927,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261030200000 +0800" stop="20261030220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261030220000 +0800" stop="20261031000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261031070000 +0800" stop="20261031073000 +0800" channel="TV5.ph">
     <title lang="en">Prinsipe Cedie</title>
@@ -3077,7 +3077,7 @@
     <title lang="en">Smart Kids / Anime Block</title>
   </programme>
   <programme start="20261031090000 +0800" stop="20261031120000 +0800" channel="GMA.ph">
-    <title lang="en">Magpakailanman Replay / Creative Variety</title>
+    <title lang="en">Magpakailanman Replay</title>
   </programme>
   <programme start="20261031120000 +0800" stop="20261031143000 +0800" channel="GMA.ph">
     <title lang="en">It's Showtime</title>
@@ -3272,10 +3272,10 @@
     <title lang="en">Classic Comedy Action</title>
   </programme>
   <programme start="20261031060000 +0800" stop="20261031080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Da King All-Star Hits</title>
+    <title lang="en">All-Star Hits</title>
   </programme>
   <programme start="20261031080000 +0800" stop="20261031100000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Weekend Special</title>
+    <title lang="en">Weekend Special</title>
   </programme>
   <programme start="20261031100000 +0800" stop="20261031120000 +0800" channel="Cinemo.ph">
     <title lang="en">Astig Sabado Movie 1</title>
@@ -3293,7 +3293,7 @@
     <title lang="en">Cinemo Blockbuster 2</title>
   </programme>
   <programme start="20261031200000 +0800" stop="20261031220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Special</title>
+    <title lang="en">Prime Time Special</title>
   </programme>
   <programme start="20261031220000 +0800" stop="20261101000000 +0800" channel="Cinemo.ph">
     <title lang="en">Late Night Action Block</title>
@@ -3449,7 +3449,7 @@
     <title lang="en">In Touch / The Word Exposed</title>
   </programme>
   <programme start="20261101070000 +0800" stop="20261101090000 +0800" channel="GMA.ph">
-    <title lang="en">Jhed / Kids Block</title>
+    <title lang="en">Kids Block</title>
   </programme>
   <programme start="20261101090000 +0800" stop="20261101120000 +0800" channel="GMA.ph">
     <title lang="en">All-Out Sundays</title>
@@ -3461,7 +3461,7 @@
     <title lang="en">Magpakailanman</title>
   </programme>
   <programme start="20261101163000 +0800" stop="20261101173000 +0800" channel="GMA.ph">
-    <title lang="en">BIZ BUZZ / Imbestigador</title>
+    <title lang="en">Imbestigador</title>
   </programme>
   <programme start="20261101173000 +0800" stop="20261101183000 +0800" channel="GMA.ph">
     <title lang="en">24 Oras Weekend</title>
@@ -3635,10 +3635,10 @@
     <title lang="en">Classic Comedy Action</title>
   </programme>
   <programme start="20261101060000 +0800" stop="20261101080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Da King All-Star Hits</title>
+    <title lang="en">All-Star Hits</title>
   </programme>
   <programme start="20261101080000 +0800" stop="20261101100000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Sunday Family Movie</title>
+    <title lang="en">Sunday Family Movie</title>
   </programme>
   <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="Cinemo.ph">
     <title lang="en">Astig Sunday Movie 1</title>
@@ -3656,7 +3656,7 @@
     <title lang="en">Cinemo Sunday Blockbuster 2</title>
   </programme>
   <programme start="20261101200000 +0800" stop="20261101220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Special</title>
+    <title lang="en">Prime Time Special</title>
   </programme>
   <programme start="20261101220000 +0800" stop="20261102000000 +0800" channel="Cinemo.ph">
     <title lang="en">Late Night Action Block</title>
@@ -3683,7 +3683,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261102143000 +0800" stop="20261102151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261102151500 +0800" stop="20261102160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -3740,7 +3740,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261102143000 +0800" stop="20261102160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261102160000 +0800" stop="20261102173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -3755,7 +3755,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261102200000 +0800" stop="20261102204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261102204500 +0800" stop="20261102213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -3800,7 +3800,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261102200000 +0800" stop="20261102224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261102224500 +0800" stop="20261102231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -3839,7 +3839,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261102200000 +0800" stop="20261102224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261102224500 +0800" stop="20261102231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -3878,7 +3878,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261102140000 +0800" stop="20261102153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261102153000 +0800" stop="20261102170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -3902,7 +3902,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261102090000 +0800" stop="20261102110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261102110000 +0800" stop="20261102120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -3911,7 +3911,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261102143000 +0800" stop="20261102152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261102152000 +0800" stop="20261102160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -3932,7 +3932,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261102200000 +0800" stop="20261102205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261102205000 +0800" stop="20261102213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -3959,10 +3959,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261102143000 +0800" stop="20261102150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261102150000 +0800" stop="20261102153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261102153000 +0800" stop="20261102174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -4052,7 +4052,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261102133000 +0800" stop="20261102141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261102141500 +0800" stop="20261102150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -4205,22 +4205,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261102000000 +0800" stop="20261102020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261102020000 +0800" stop="20261102040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261102040000 +0800" stop="20261102060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261102060000 +0800" stop="20261102080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261102080000 +0800" stop="20261102100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261102100000 +0800" stop="20261102120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261102120000 +0800" stop="20261102140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -4235,10 +4235,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261102200000 +0800" stop="20261102220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261102220000 +0800" stop="20261103000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261103043000 +0800" stop="20261103053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -4262,7 +4262,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261103143000 +0800" stop="20261103151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261103151500 +0800" stop="20261103160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -4319,7 +4319,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261103143000 +0800" stop="20261103160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261103160000 +0800" stop="20261103173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -4334,7 +4334,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261103200000 +0800" stop="20261103204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261103204500 +0800" stop="20261103213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -4379,7 +4379,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261103200000 +0800" stop="20261103224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261103224500 +0800" stop="20261103231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -4418,7 +4418,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261103200000 +0800" stop="20261103224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261103224500 +0800" stop="20261103231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -4457,7 +4457,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261103140000 +0800" stop="20261103153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261103153000 +0800" stop="20261103170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -4481,7 +4481,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261103090000 +0800" stop="20261103110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261103110000 +0800" stop="20261103120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -4490,7 +4490,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261103143000 +0800" stop="20261103152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261103152000 +0800" stop="20261103160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -4511,7 +4511,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261103200000 +0800" stop="20261103205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261103205000 +0800" stop="20261103213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -4538,10 +4538,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261103143000 +0800" stop="20261103150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261103150000 +0800" stop="20261103153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261103153000 +0800" stop="20261103174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -4631,7 +4631,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261103133000 +0800" stop="20261103141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261103141500 +0800" stop="20261103150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -4784,22 +4784,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261103000000 +0800" stop="20261103020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261103020000 +0800" stop="20261103040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261103040000 +0800" stop="20261103060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261103060000 +0800" stop="20261103080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261103080000 +0800" stop="20261103100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261103100000 +0800" stop="20261103120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261103120000 +0800" stop="20261103140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -4814,10 +4814,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261103200000 +0800" stop="20261103220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261103220000 +0800" stop="20261104000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261104043000 +0800" stop="20261104053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -4841,7 +4841,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261104143000 +0800" stop="20261104151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261104151500 +0800" stop="20261104160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -4898,7 +4898,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261104143000 +0800" stop="20261104160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261104160000 +0800" stop="20261104173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -4913,7 +4913,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261104200000 +0800" stop="20261104204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261104204500 +0800" stop="20261104213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -4958,7 +4958,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261104200000 +0800" stop="20261104224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261104224500 +0800" stop="20261104231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -4997,7 +4997,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261104200000 +0800" stop="20261104224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261104224500 +0800" stop="20261104231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -5036,7 +5036,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261104140000 +0800" stop="20261104153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261104153000 +0800" stop="20261104170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -5060,7 +5060,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261104090000 +0800" stop="20261104110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261104110000 +0800" stop="20261104120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -5069,7 +5069,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261104143000 +0800" stop="20261104152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261104152000 +0800" stop="20261104160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -5090,7 +5090,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261104200000 +0800" stop="20261104205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261104205000 +0800" stop="20261104213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -5117,10 +5117,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261104143000 +0800" stop="20261104150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261104150000 +0800" stop="20261104153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261104153000 +0800" stop="20261104174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -5210,7 +5210,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261104133000 +0800" stop="20261104141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261104141500 +0800" stop="20261104150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -5363,22 +5363,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261104000000 +0800" stop="20261104020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261104020000 +0800" stop="20261104040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261104040000 +0800" stop="20261104060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261104060000 +0800" stop="20261104080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261104080000 +0800" stop="20261104100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261104100000 +0800" stop="20261104120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261104120000 +0800" stop="20261104140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -5393,10 +5393,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261104200000 +0800" stop="20261104220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261104220000 +0800" stop="20261105000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261105043000 +0800" stop="20261105053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -5420,7 +5420,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261105143000 +0800" stop="20261105151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261105151500 +0800" stop="20261105160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -5477,7 +5477,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261105143000 +0800" stop="20261105160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261105160000 +0800" stop="20261105173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -5492,7 +5492,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261105200000 +0800" stop="20261105204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261105204500 +0800" stop="20261105213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -5537,7 +5537,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261105200000 +0800" stop="20261105224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261105224500 +0800" stop="20261105231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -5576,7 +5576,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261105200000 +0800" stop="20261105224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261105224500 +0800" stop="20261105231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -5615,7 +5615,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261105140000 +0800" stop="20261105153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261105153000 +0800" stop="20261105170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -5639,7 +5639,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261105090000 +0800" stop="20261105110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261105110000 +0800" stop="20261105120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -5648,7 +5648,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261105143000 +0800" stop="20261105152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261105152000 +0800" stop="20261105160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -5669,7 +5669,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261105200000 +0800" stop="20261105205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261105205000 +0800" stop="20261105213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -5696,10 +5696,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261105143000 +0800" stop="20261105150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261105150000 +0800" stop="20261105153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261105153000 +0800" stop="20261105174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -5789,7 +5789,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261105133000 +0800" stop="20261105141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261105141500 +0800" stop="20261105150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -5942,22 +5942,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261105000000 +0800" stop="20261105020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261105020000 +0800" stop="20261105040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261105040000 +0800" stop="20261105060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261105060000 +0800" stop="20261105080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261105080000 +0800" stop="20261105100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261105100000 +0800" stop="20261105120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261105120000 +0800" stop="20261105140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -5972,10 +5972,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261105200000 +0800" stop="20261105220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261105220000 +0800" stop="20261106000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261106043000 +0800" stop="20261106053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
@@ -5999,7 +5999,7 @@
     <title lang="en">Eat Bulaga!</title>
   </programme>
   <programme start="20261106143000 +0800" stop="20261106151500 +0800" channel="TV5.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Rerun) / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261106151500 +0800" stop="20261106160000 +0800" channel="TV5.ph">
     <title lang="en">Frontline Express PM</title>
@@ -6056,7 +6056,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261106143000 +0800" stop="20261106160000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Gold Drama (Pamilya Sagrado / Lavender Fields Reruns)</title>
+    <title lang="en">Kapamilya Gold Drama</title>
   </programme>
   <programme start="20261106160000 +0800" stop="20261106173000 +0800" channel="Kapamilya.ph">
     <title lang="en">Afternoon Zinema</title>
@@ -6071,7 +6071,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261106200000 +0800" stop="20261106204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ's Batang Quiapo</title>
+    <title lang="en">Sigabo</title>
   </programme>
   <programme start="20261106204500 +0800" stop="20261106213000 +0800" channel="Kapamilya.ph">
     <title lang="en">Lavender Fields / Primetime Bida</title>
@@ -6116,7 +6116,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261106200000 +0800" stop="20261106224500 +0800" channel="ALLTV2.ph">
-    <title lang="en">Primetime Bida Simulcast</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261106224500 +0800" stop="20261106231500 +0800" channel="ALLTV2.ph">
     <title lang="en">The World Tonight</title>
@@ -6155,7 +6155,7 @@
     <title lang="en">TV Patrol</title>
   </programme>
   <programme start="20261106200000 +0800" stop="20261106224500 +0800" channel="A2Z.ph">
-    <title lang="en">FPJ's Batang Quiapo (Simulcast)</title>
+    <title lang="en">Sigabo (Simulcast)</title>
   </programme>
   <programme start="20261106224500 +0800" stop="20261106231500 +0800" channel="A2Z.ph">
     <title lang="en">Balitang A2Z</title>
@@ -6194,7 +6194,7 @@
     <title lang="en">The General's Daughter</title>
   </programme>
   <programme start="20261106140000 +0800" stop="20261106153000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">FPJ's Ang Probinsyano (Classic Run)</title>
+    <title lang="en">Classic Run</title>
   </programme>
   <programme start="20261106153000 +0800" stop="20261106170000 +0800" channel="JeepneyTV.ph">
     <title lang="en">Wildflower</title>
@@ -6218,7 +6218,7 @@
     <title lang="en">Pokemon / Anime / Kids Block</title>
   </programme>
   <programme start="20261106090000 +0800" stop="20261106110000 +0800" channel="GMA.ph">
-    <title lang="en">Tearful Bridal / Morning Variety</title>
+    <title lang="en">Morning Variety</title>
   </programme>
   <programme start="20261106110000 +0800" stop="20261106120000 +0800" channel="GMA.ph">
     <title lang="en">TiktoClock</title>
@@ -6227,7 +6227,7 @@
     <title lang="en">It's Showtime</title>
   </programme>
   <programme start="20261106143000 +0800" stop="20261106152000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Afternoon Drama</title>
+    <title lang="en">Afternoon Drama</title>
   </programme>
   <programme start="20261106152000 +0800" stop="20261106160500 +0800" channel="GMA.ph">
     <title lang="en">Abot-Kamay na Pangarap</title>
@@ -6248,7 +6248,7 @@
     <title lang="en">24 Oras</title>
   </programme>
   <programme start="20261106200000 +0800" stop="20261106205000 +0800" channel="GMA.ph">
-    <title lang="en">Widows' War / Primetime Drama</title>
+    <title lang="en">Primetime Drama</title>
   </programme>
   <programme start="20261106205000 +0800" stop="20261106213500 +0800" channel="GMA.ph">
     <title lang="en">Asawa ng Asawa Ko</title>
@@ -6275,10 +6275,10 @@
     <title lang="en">Noontime Movie Hits</title>
   </programme>
   <programme start="20261106143000 +0800" stop="20261106150000 +0800" channel="GTV.ph">
-    <title lang="en">The Penthouse / Asian Drama 1</title>
+    <title lang="en">Asian Drama 1</title>
   </programme>
   <programme start="20261106150000 +0800" stop="20261106153000 +0800" channel="GTV.ph">
-    <title lang="en">Descendants of the Sun / Asian Drama 2</title>
+    <title lang="en">Asian Drama 2</title>
   </programme>
   <programme start="20261106153000 +0800" stop="20261106174500 +0800" channel="GTV.ph">
     <title lang="en">Afternoon Movie Break / Regal Studio Presents</title>
@@ -6368,7 +6368,7 @@
     <title lang="en">TV Patrol Global</title>
   </programme>
   <programme start="20261106133000 +0800" stop="20261106141500 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ's Batang Quiapo Replay</title>
+    <title lang="en">Sigabo Replay</title>
   </programme>
   <programme start="20261106141500 +0800" stop="20261106150000 +0800" channel="TFCAsia.ph">
     <title lang="en">Lavender Fields Replay</title>
@@ -6521,22 +6521,22 @@
     <title lang="en">Love Konek</title>
   </programme>
   <programme start="20261106000000 +0800" stop="20261106020000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Action Movie Classics: Panday</title>
+    <title lang="en">Action Movie Classics: Panday</title>
   </programme>
   <programme start="20261106020000 +0800" stop="20261106040000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ: Asiong Salonga</title>
+    <title lang="en">Asiong Salonga</title>
   </programme>
   <programme start="20261106040000 +0800" stop="20261106060000 +0800" channel="Cinemo.ph">
     <title lang="en">Bukas Ka Na Lang Magsisisi</title>
   </programme>
   <programme start="20261106060000 +0800" stop="20261106080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Ruru Madrid Action Specials</title>
+    <title lang="en">Action Specials</title>
   </programme>
   <programme start="20261106080000 +0800" stop="20261106100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Action Comedy Hits: Babalu &amp; Redford</title>
+    <title lang="en">Action Comedy Hits</title>
   </programme>
   <programme start="20261106100000 +0800" stop="20261106120000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Classic Movie</title>
+    <title lang="en">Classic Movie</title>
   </programme>
   <programme start="20261106120000 +0800" stop="20261106140000 +0800" channel="Cinemo.ph">
     <title lang="en">Ang Panday Series Marathon</title>
@@ -6551,10 +6551,10 @@
     <title lang="en">Rudy Fernandez Action Hits</title>
   </programme>
   <programme start="20261106200000 +0800" stop="20261106220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Action</title>
+    <title lang="en">Prime Time Action</title>
   </programme>
   <programme start="20261106220000 +0800" stop="20261107000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Late Night Action Thriller</title>
+    <title lang="en">Late Night Action Thriller</title>
   </programme>
   <programme start="20261107070000 +0800" stop="20261107073000 +0800" channel="TV5.ph">
     <title lang="en">Prinsipe Cedie</title>
@@ -6701,7 +6701,7 @@
     <title lang="en">Smart Kids / Anime Block</title>
   </programme>
   <programme start="20261107090000 +0800" stop="20261107120000 +0800" channel="GMA.ph">
-    <title lang="en">Magpakailanman Replay / Creative Variety</title>
+    <title lang="en">Magpakailanman Replay</title>
   </programme>
   <programme start="20261107120000 +0800" stop="20261107143000 +0800" channel="GMA.ph">
     <title lang="en">It's Showtime</title>
@@ -6896,10 +6896,10 @@
     <title lang="en">Classic Comedy Action</title>
   </programme>
   <programme start="20261107060000 +0800" stop="20261107080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Da King All-Star Hits</title>
+    <title lang="en">All-Star Hits</title>
   </programme>
   <programme start="20261107080000 +0800" stop="20261107100000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Weekend Special</title>
+    <title lang="en">Weekend Special</title>
   </programme>
   <programme start="20261107100000 +0800" stop="20261107120000 +0800" channel="Cinemo.ph">
     <title lang="en">Astig Sabado Movie 1</title>
@@ -6917,7 +6917,7 @@
     <title lang="en">Cinemo Blockbuster 2</title>
   </programme>
   <programme start="20261107200000 +0800" stop="20261107220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Special</title>
+    <title lang="en">Prime Time Special</title>
   </programme>
   <programme start="20261107220000 +0800" stop="20261108000000 +0800" channel="Cinemo.ph">
     <title lang="en">Late Night Action Block</title>
@@ -7073,7 +7073,7 @@
     <title lang="en">In Touch / The Word Exposed</title>
   </programme>
   <programme start="20261108070000 +0800" stop="20261108090000 +0800" channel="GMA.ph">
-    <title lang="en">Jhed / Kids Block</title>
+    <title lang="en">Kids Block</title>
   </programme>
   <programme start="20261108090000 +0800" stop="20261108120000 +0800" channel="GMA.ph">
     <title lang="en">All-Out Sundays</title>
@@ -7085,7 +7085,7 @@
     <title lang="en">Magpakailanman</title>
   </programme>
   <programme start="20261108163000 +0800" stop="20261108173000 +0800" channel="GMA.ph">
-    <title lang="en">BIZ BUZZ / Imbestigador</title>
+    <title lang="en">Imbestigador</title>
   </programme>
   <programme start="20261108173000 +0800" stop="20261108183000 +0800" channel="GMA.ph">
     <title lang="en">24 Oras Weekend</title>
@@ -7259,10 +7259,10 @@
     <title lang="en">Classic Comedy Action</title>
   </programme>
   <programme start="20261108060000 +0800" stop="20261108080000 +0800" channel="Cinemo.ph">
-    <title lang="en">Da King All-Star Hits</title>
+    <title lang="en">All-Star Hits</title>
   </programme>
   <programme start="20261108080000 +0800" stop="20261108100000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Sunday Family Movie</title>
+    <title lang="en">Sunday Family Movie</title>
   </programme>
   <programme start="20261108100000 +0800" stop="20261108120000 +0800" channel="Cinemo.ph">
     <title lang="en">Astig Sunday Movie 1</title>
@@ -7280,7 +7280,7 @@
     <title lang="en">Cinemo Sunday Blockbuster 2</title>
   </programme>
   <programme start="20261108200000 +0800" stop="20261108220000 +0800" channel="Cinemo.ph">
-    <title lang="en">FPJ Prime Time Special</title>
+    <title lang="en">Prime Time Special</title>
   </programme>
   <programme start="20261108220000 +0800" stop="20261109000000 +0800" channel="Cinemo.ph">
     <title lang="en">Late Night Action Block</title>
