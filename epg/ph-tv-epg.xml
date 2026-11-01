@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="ph-tv-epg" generator-info-url="https://github.com/YOUR_USERNAME/ph-tv-epg" date="20261101035942 +0800">
+<tv generator-info-name="ph-tv-epg" generator-info-url="https://github.com/YOUR_USERNAME/ph-tv-epg" date="20261102043041 +0800">
   <channel id="TV5.ph">
     <display-name>TV5</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TV5_Logo_2021.svg/200px-TV5_Logo_2021.svg.png"/>
@@ -37,369 +37,6 @@
   <channel id="Cinemo.ph">
     <display-name>Cinemo PH</display-name>
   </channel>
-  <programme start="20261101053000 +0800" stop="20261101060000 +0800" channel="TV5.ph">
-    <title lang="en">In Touch with Dr. Charles Stanley</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="TV5.ph">
-    <title lang="en">Sunday Mass</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101080000 +0800" channel="TV5.ph">
-    <title lang="en">Oras ng Katotohanan</title>
-  </programme>
-  <programme start="20261101080000 +0800" stop="20261101090000 +0800" channel="TV5.ph">
-    <title lang="en">Prinsipe Cedie</title>
-  </programme>
-  <programme start="20261101090000 +0800" stop="20261101100000 +0800" channel="TV5.ph">
-    <title lang="en">The Adventures of Tom Sawyer</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="TV5.ph">
-    <title lang="en">Blockbusters sa Umaga</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101133000 +0800" channel="TV5.ph">
-    <title lang="en">Gandang Gabi Vice Replay</title>
-  </programme>
-  <programme start="20261101133000 +0800" stop="20261101153000 +0800" channel="TV5.ph">
-    <title lang="en">Cine Cinco Astig Sunday</title>
-  </programme>
-  <programme start="20261101153000 +0800" stop="20261101160000 +0800" channel="TV5.ph">
-    <title lang="en">Julius Babao Unplugged</title>
-  </programme>
-  <programme start="20261101160000 +0800" stop="20261101170000 +0800" channel="TV5.ph">
-    <title lang="en">Rated Korina</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="TV5.ph">
-    <title lang="en">Frontline Pilipinas Weekend</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101190000 +0800" channel="TV5.ph">
-    <title lang="en">Kapatid Mo, Idol Raffy Tulfo</title>
-  </programme>
-  <programme start="20261101190000 +0800" stop="20261101204500 +0800" channel="TV5.ph">
-    <title lang="en">ASAP XP</title>
-  </programme>
-  <programme start="20261101204500 +0800" stop="20261101214500 +0800" channel="TV5.ph">
-    <title lang="en">Kapamilya Deal or No Deal</title>
-  </programme>
-  <programme start="20261101214500 +0800" stop="20261101224500 +0800" channel="TV5.ph">
-    <title lang="en">Maalaala Mo Kaya</title>
-  </programme>
-  <programme start="20261101224500 +0800" stop="20261102000000 +0800" channel="TV5.ph">
-    <title lang="en">Kapatid Sunday Specials</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="Kapamilya.ph">
-    <title lang="en">The Healing Eucharist</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101100000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Team YeY Sunday / Educational</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="Kapamilya.ph">
-    <title lang="en">KB Family Weekend</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="Kapamilya.ph">
-    <title lang="en">ASAP XP</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101170000 +0800" channel="Kapamilya.ph">
-    <title lang="en">FPJ Da King Movies</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="Kapamilya.ph">
-    <title lang="en">TV Patrol Weekend</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101190000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Rated Korina</title>
-  </programme>
-  <programme start="20261101190000 +0800" stop="20261101204500 +0800" channel="Kapamilya.ph">
-    <title lang="en">ASAP XP (Main Feed)</title>
-  </programme>
-  <programme start="20261101204500 +0800" stop="20261101214500 +0800" channel="Kapamilya.ph">
-    <title lang="en">Kapamilya Deal or No Deal</title>
-  </programme>
-  <programme start="20261101214500 +0800" stop="20261101224500 +0800" channel="Kapamilya.ph">
-    <title lang="en">Maalaala Mo Kaya</title>
-  </programme>
-  <programme start="20261101224500 +0800" stop="20261102010000 +0800" channel="Kapamilya.ph">
-    <title lang="en">Super Kapamilya Blockbusters</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="ALLTV2.ph">
-    <title lang="en">The Healing Eucharist</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101100000 +0800" channel="ALLTV2.ph">
-    <title lang="en">Kids / Educational</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="ALLTV2.ph">
-    <title lang="en">Movies / Family</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="ALLTV2.ph">
-    <title lang="en">ASAP XP</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101170000 +0800" channel="ALLTV2.ph">
-    <title lang="en">Afternoon Block</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="ALLTV2.ph">
-    <title lang="en">TV Patrol Weekend</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101230000 +0800" channel="ALLTV2.ph">
-    <title lang="en">Weekend Primetime + ASAP XP</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="A2Z.ph">
-    <title lang="en">Shuffle</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101090000 +0800" channel="A2Z.ph">
-    <title lang="en">JIL Sunday Worship</title>
-  </programme>
-  <programme start="20261101090000 +0800" stop="20261101100000 +0800" channel="A2Z.ph">
-    <title lang="en">Team YeY Sunday</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="A2Z.ph">
-    <title lang="en">Zinema sa Umaga</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="A2Z.ph">
-    <title lang="en">ASAP XP</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101170000 +0800" channel="A2Z.ph">
-    <title lang="en">Afternoon Movies / Specials</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="A2Z.ph">
-    <title lang="en">TV Patrol Weekend</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101230000 +0800" channel="A2Z.ph">
-    <title lang="en">Weekend Primetime + ASAP</title>
-  </programme>
-  <programme start="20261101000000 +0800" stop="20261101060000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">Classic Marathon</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">Healing Eucharist (Delayed)</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101120000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">Sine Omnibus</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101170000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">ASAP Classic Archives</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101200000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">Rated K Classic</title>
-  </programme>
-  <programme start="20261101200000 +0800" stop="20261101220000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">Gandang Gabi Vice Archives</title>
-  </programme>
-  <programme start="20261101220000 +0800" stop="20261102000000 +0800" channel="JeepneyTV.ph">
-    <title lang="en">MOR Originals / Late Night</title>
-  </programme>
-  <programme start="20261101053000 +0800" stop="20261101070000 +0800" channel="GMA.ph">
-    <title lang="en">In Touch / The Word Exposed</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101090000 +0800" channel="GMA.ph">
-    <title lang="en">Kids Block</title>
-  </programme>
-  <programme start="20261101090000 +0800" stop="20261101120000 +0800" channel="GMA.ph">
-    <title lang="en">All-Out Sundays</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101150000 +0800" channel="GMA.ph">
-    <title lang="en">GMA Blockbusters Sunday</title>
-  </programme>
-  <programme start="20261101150000 +0800" stop="20261101163000 +0800" channel="GMA.ph">
-    <title lang="en">Magpakailanman</title>
-  </programme>
-  <programme start="20261101163000 +0800" stop="20261101173000 +0800" channel="GMA.ph">
-    <title lang="en">Imbestigador</title>
-  </programme>
-  <programme start="20261101173000 +0800" stop="20261101183000 +0800" channel="GMA.ph">
-    <title lang="en">24 Oras Weekend</title>
-  </programme>
-  <programme start="20261101183000 +0800" stop="20261101190000 +0800" channel="GMA.ph">
-    <title lang="en">The Voice Kids</title>
-  </programme>
-  <programme start="20261101190000 +0800" stop="20261101203000 +0800" channel="GMA.ph">
-    <title lang="en">The Voice Kids (Main)</title>
-  </programme>
-  <programme start="20261101203000 +0800" stop="20261101230000 +0800" channel="GMA.ph">
-    <title lang="en">Amazing Earth / Sunday Specials</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101093000 +0800" channel="GTV.ph">
-    <title lang="en">Animated Kids / Anime Block</title>
-  </programme>
-  <programme start="20261101093000 +0800" stop="20261101120000 +0800" channel="GTV.ph">
-    <title lang="en">Sunday Telesine</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101150000 +0800" channel="GTV.ph">
-    <title lang="en">Sine Date Weekends</title>
-  </programme>
-  <programme start="20261101150000 +0800" stop="20261101173000 +0800" channel="GTV.ph">
-    <title lang="en">Afternoon Movie Break</title>
-  </programme>
-  <programme start="20261101173000 +0800" stop="20261101183000 +0800" channel="GTV.ph">
-    <title lang="en">24 Oras Weekend</title>
-  </programme>
-  <programme start="20261101183000 +0800" stop="20261101230000 +0800" channel="GTV.ph">
-    <title lang="en">Sunday G! Flicks</title>
-  </programme>
-  <programme start="20261101000000 +0800" stop="20261101020000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">The Revengers Squad</title>
-  </programme>
-  <programme start="20261101020000 +0800" stop="20261101040000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Fantastica</title>
-  </programme>
-  <programme start="20261101040000 +0800" stop="20261101060000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">The Mall, The Merrier</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101080000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Gandarrapiddo: The Revengers Squad</title>
-  </programme>
-  <programme start="20261101080000 +0800" stop="20261101100000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Beauty and the Bestie</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">The Amazing Praybeyt Benjamin</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Sisterakas</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101160000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Moron 5 and the Crying Lady</title>
-  </programme>
-  <programme start="20261101160000 +0800" stop="20261101180000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Bromance: My Brother's Romance</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101200000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">My Amnesia Girl</title>
-  </programme>
-  <programme start="20261101200000 +0800" stop="20261101220000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Starting Over Again</title>
-  </programme>
-  <programme start="20261101220000 +0800" stop="20261102000000 +0800" channel="CinemaOneGlobal.ph">
-    <title lang="en">Must Be... Love</title>
-  </programme>
-  <programme start="20261101000000 +0800" stop="20261101050000 +0800" channel="TFCAsia.ph">
-    <title lang="en">Overnight Specials</title>
-  </programme>
-  <programme start="20261101050000 +0800" stop="20261101060000 +0800" channel="TFCAsia.ph">
-    <title lang="en">The Healing Eucharist</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101090000 +0800" channel="TFCAsia.ph">
-    <title lang="en">TFC Kids / Educational</title>
-  </programme>
-  <programme start="20261101090000 +0800" stop="20261101120000 +0800" channel="TFCAsia.ph">
-    <title lang="en">Sunday Morning Movies</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="TFCAsia.ph">
-    <title lang="en">ASAP XP Global</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101170000 +0800" channel="TFCAsia.ph">
-    <title lang="en">FPJ Da King Movies</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="TFCAsia.ph">
-    <title lang="en">TV Patrol Weekend</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101190000 +0800" channel="TFCAsia.ph">
-    <title lang="en">Rated Korina</title>
-  </programme>
-  <programme start="20261101190000 +0800" stop="20261101204500 +0800" channel="TFCAsia.ph">
-    <title lang="en">ASAP XP Encore</title>
-  </programme>
-  <programme start="20261101204500 +0800" stop="20261101214500 +0800" channel="TFCAsia.ph">
-    <title lang="en">Maalaala Mo Kaya</title>
-  </programme>
-  <programme start="20261101214500 +0800" stop="20261102000000 +0800" channel="TFCAsia.ph">
-    <title lang="en">Sunday Blockbusters</title>
-  </programme>
-  <programme start="20261101000000 +0800" stop="20261101060000 +0800" channel="Hallypop.ph">
-    <title lang="en">StarGazeMuzik / Overnight</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101070000 +0800" channel="Hallypop.ph">
-    <title lang="en">StarGazeMuzik</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101080000 +0800" channel="Hallypop.ph">
-    <title lang="en">Fanpick</title>
-  </programme>
-  <programme start="20261101080000 +0800" stop="20261101100000 +0800" channel="Hallypop.ph">
-    <title lang="en">HallyStage</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="Hallypop.ph">
-    <title lang="en">StarGazeMuzik</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="Hallypop.ph">
-    <title lang="en">Scream Flix</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101160000 +0800" channel="Hallypop.ph">
-    <title lang="en">Jungo Pinoy Presents</title>
-  </programme>
-  <programme start="20261101160000 +0800" stop="20261101180000 +0800" channel="Hallypop.ph">
-    <title lang="en">StarGazeMuzik</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101200000 +0800" channel="Hallypop.ph">
-    <title lang="en">Scream Flix</title>
-  </programme>
-  <programme start="20261101200000 +0800" stop="20261101220000 +0800" channel="Hallypop.ph">
-    <title lang="en">Jungo Pinoy Presents</title>
-  </programme>
-  <programme start="20261101220000 +0800" stop="20261102000000 +0800" channel="Hallypop.ph">
-    <title lang="en">HallyStage</title>
-  </programme>
-  <programme start="20261101000000 +0800" stop="20261101050000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Remember Your Music / Overnight</title>
-  </programme>
-  <programme start="20261101050000 +0800" stop="20261101070000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Sunday Mass / Early Block</title>
-  </programme>
-  <programme start="20261101070000 +0800" stop="20261101073000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Radyo Patrol Balita Weekend</title>
-  </programme>
-  <programme start="20261101073000 +0800" stop="20261101100000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Sunday Morning Talk</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Weekend Documentaries</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101150000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Sunday Afternoon Block</title>
-  </programme>
-  <programme start="20261101150000 +0800" stop="20261101170000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Public Affairs Specials</title>
-  </programme>
-  <programme start="20261101170000 +0800" stop="20261101180000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">TV Patrol Weekend</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101210000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Sunday Primetime Coverage</title>
-  </programme>
-  <programme start="20261101210000 +0800" stop="20261102000000 +0800" channel="DZMMTeleradyo.ph">
-    <title lang="en">Weekend Late Night Music</title>
-  </programme>
-  <programme start="20261101000000 +0800" stop="20261101020000 +0800" channel="Cinemo.ph">
-    <title lang="en">Midnight Action Block</title>
-  </programme>
-  <programme start="20261101020000 +0800" stop="20261101040000 +0800" channel="Cinemo.ph">
-    <title lang="en">Pinoy Action Marathon</title>
-  </programme>
-  <programme start="20261101040000 +0800" stop="20261101060000 +0800" channel="Cinemo.ph">
-    <title lang="en">Classic Comedy Action</title>
-  </programme>
-  <programme start="20261101060000 +0800" stop="20261101080000 +0800" channel="Cinemo.ph">
-    <title lang="en">All-Star Hits</title>
-  </programme>
-  <programme start="20261101080000 +0800" stop="20261101100000 +0800" channel="Cinemo.ph">
-    <title lang="en">Sunday Family Movie</title>
-  </programme>
-  <programme start="20261101100000 +0800" stop="20261101120000 +0800" channel="Cinemo.ph">
-    <title lang="en">Astig Sunday Movie 1</title>
-  </programme>
-  <programme start="20261101120000 +0800" stop="20261101140000 +0800" channel="Cinemo.ph">
-    <title lang="en">Astig Sunday Movie 2</title>
-  </programme>
-  <programme start="20261101140000 +0800" stop="20261101160000 +0800" channel="Cinemo.ph">
-    <title lang="en">Astig Sunday Movie 3</title>
-  </programme>
-  <programme start="20261101160000 +0800" stop="20261101180000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Sunday Blockbuster 1</title>
-  </programme>
-  <programme start="20261101180000 +0800" stop="20261101200000 +0800" channel="Cinemo.ph">
-    <title lang="en">Cinemo Sunday Blockbuster 2</title>
-  </programme>
-  <programme start="20261101200000 +0800" stop="20261101220000 +0800" channel="Cinemo.ph">
-    <title lang="en">Prime Time Special</title>
-  </programme>
-  <programme start="20261101220000 +0800" stop="20261102000000 +0800" channel="Cinemo.ph">
-    <title lang="en">Late Night Action Block</title>
-  </programme>
   <programme start="20261102043000 +0800" stop="20261102053000 +0800" channel="TV5.ph">
     <title lang="en">Mga Kwentong MX3</title>
   </programme>
@@ -7283,6 +6920,369 @@
     <title lang="en">Prime Time Special</title>
   </programme>
   <programme start="20261114220000 +0800" stop="20261115000000 +0800" channel="Cinemo.ph">
+    <title lang="en">Late Night Action Block</title>
+  </programme>
+  <programme start="20261115053000 +0800" stop="20261115060000 +0800" channel="TV5.ph">
+    <title lang="en">In Touch with Dr. Charles Stanley</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="TV5.ph">
+    <title lang="en">Sunday Mass</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115080000 +0800" channel="TV5.ph">
+    <title lang="en">Oras ng Katotohanan</title>
+  </programme>
+  <programme start="20261115080000 +0800" stop="20261115090000 +0800" channel="TV5.ph">
+    <title lang="en">Prinsipe Cedie</title>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115100000 +0800" channel="TV5.ph">
+    <title lang="en">The Adventures of Tom Sawyer</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="TV5.ph">
+    <title lang="en">Blockbusters sa Umaga</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115133000 +0800" channel="TV5.ph">
+    <title lang="en">Gandang Gabi Vice Replay</title>
+  </programme>
+  <programme start="20261115133000 +0800" stop="20261115153000 +0800" channel="TV5.ph">
+    <title lang="en">Cine Cinco Astig Sunday</title>
+  </programme>
+  <programme start="20261115153000 +0800" stop="20261115160000 +0800" channel="TV5.ph">
+    <title lang="en">Julius Babao Unplugged</title>
+  </programme>
+  <programme start="20261115160000 +0800" stop="20261115170000 +0800" channel="TV5.ph">
+    <title lang="en">Rated Korina</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115180000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas Weekend</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115190000 +0800" channel="TV5.ph">
+    <title lang="en">Kapatid Mo, Idol Raffy Tulfo</title>
+  </programme>
+  <programme start="20261115190000 +0800" stop="20261115204500 +0800" channel="TV5.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261115204500 +0800" stop="20261115214500 +0800" channel="TV5.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+  </programme>
+  <programme start="20261115214500 +0800" stop="20261115224500 +0800" channel="TV5.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261115224500 +0800" stop="20261116000000 +0800" channel="TV5.ph">
+    <title lang="en">Kapatid Sunday Specials</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="Kapamilya.ph">
+    <title lang="en">The Healing Eucharist</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115100000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Team YeY Sunday / Educational</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="Kapamilya.ph">
+    <title lang="en">KB Family Weekend</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="Kapamilya.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115170000 +0800" channel="Kapamilya.ph">
+    <title lang="en">FPJ Da King Movies</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115180000 +0800" channel="Kapamilya.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115190000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Rated Korina</title>
+  </programme>
+  <programme start="20261115190000 +0800" stop="20261115204500 +0800" channel="Kapamilya.ph">
+    <title lang="en">ASAP XP (Main Feed)</title>
+  </programme>
+  <programme start="20261115204500 +0800" stop="20261115214500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+  </programme>
+  <programme start="20261115214500 +0800" stop="20261115224500 +0800" channel="Kapamilya.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261115224500 +0800" stop="20261116010000 +0800" channel="Kapamilya.ph">
+    <title lang="en">Super Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="ALLTV2.ph">
+    <title lang="en">The Healing Eucharist</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115100000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Kids / Educational</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Movies / Family</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="ALLTV2.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115170000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Afternoon Block</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115180000 +0800" channel="ALLTV2.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115230000 +0800" channel="ALLTV2.ph">
+    <title lang="en">Weekend Primetime + ASAP XP</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="A2Z.ph">
+    <title lang="en">Shuffle</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115090000 +0800" channel="A2Z.ph">
+    <title lang="en">JIL Sunday Worship</title>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115100000 +0800" channel="A2Z.ph">
+    <title lang="en">Team YeY Sunday</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="A2Z.ph">
+    <title lang="en">Zinema sa Umaga</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="A2Z.ph">
+    <title lang="en">ASAP XP</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115170000 +0800" channel="A2Z.ph">
+    <title lang="en">Afternoon Movies / Specials</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115180000 +0800" channel="A2Z.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115230000 +0800" channel="A2Z.ph">
+    <title lang="en">Weekend Primetime + ASAP</title>
+  </programme>
+  <programme start="20261115000000 +0800" stop="20261115060000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Classic Marathon</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Healing Eucharist (Delayed)</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115120000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Sine Omnibus</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115170000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">ASAP Classic Archives</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115200000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Rated K Classic</title>
+  </programme>
+  <programme start="20261115200000 +0800" stop="20261115220000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">Gandang Gabi Vice Archives</title>
+  </programme>
+  <programme start="20261115220000 +0800" stop="20261116000000 +0800" channel="JeepneyTV.ph">
+    <title lang="en">MOR Originals / Late Night</title>
+  </programme>
+  <programme start="20261115053000 +0800" stop="20261115070000 +0800" channel="GMA.ph">
+    <title lang="en">In Touch / The Word Exposed</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115090000 +0800" channel="GMA.ph">
+    <title lang="en">Kids Block</title>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115120000 +0800" channel="GMA.ph">
+    <title lang="en">All-Out Sundays</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115150000 +0800" channel="GMA.ph">
+    <title lang="en">GMA Blockbusters Sunday</title>
+  </programme>
+  <programme start="20261115150000 +0800" stop="20261115163000 +0800" channel="GMA.ph">
+    <title lang="en">Magpakailanman</title>
+  </programme>
+  <programme start="20261115163000 +0800" stop="20261115173000 +0800" channel="GMA.ph">
+    <title lang="en">Imbestigador</title>
+  </programme>
+  <programme start="20261115173000 +0800" stop="20261115183000 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261115183000 +0800" stop="20261115190000 +0800" channel="GMA.ph">
+    <title lang="en">The Voice Kids</title>
+  </programme>
+  <programme start="20261115190000 +0800" stop="20261115203000 +0800" channel="GMA.ph">
+    <title lang="en">The Voice Kids (Main)</title>
+  </programme>
+  <programme start="20261115203000 +0800" stop="20261115230000 +0800" channel="GMA.ph">
+    <title lang="en">Amazing Earth / Sunday Specials</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115093000 +0800" channel="GTV.ph">
+    <title lang="en">Animated Kids / Anime Block</title>
+  </programme>
+  <programme start="20261115093000 +0800" stop="20261115120000 +0800" channel="GTV.ph">
+    <title lang="en">Sunday Telesine</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115150000 +0800" channel="GTV.ph">
+    <title lang="en">Sine Date Weekends</title>
+  </programme>
+  <programme start="20261115150000 +0800" stop="20261115173000 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break</title>
+  </programme>
+  <programme start="20261115173000 +0800" stop="20261115183000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261115183000 +0800" stop="20261115230000 +0800" channel="GTV.ph">
+    <title lang="en">Sunday G! Flicks</title>
+  </programme>
+  <programme start="20261115000000 +0800" stop="20261115020000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">The Revengers Squad</title>
+  </programme>
+  <programme start="20261115020000 +0800" stop="20261115040000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Fantastica</title>
+  </programme>
+  <programme start="20261115040000 +0800" stop="20261115060000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">The Mall, The Merrier</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115080000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Gandarrapiddo: The Revengers Squad</title>
+  </programme>
+  <programme start="20261115080000 +0800" stop="20261115100000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Beauty and the Bestie</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">The Amazing Praybeyt Benjamin</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Sisterakas</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115160000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Moron 5 and the Crying Lady</title>
+  </programme>
+  <programme start="20261115160000 +0800" stop="20261115180000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Bromance: My Brother's Romance</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115200000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">My Amnesia Girl</title>
+  </programme>
+  <programme start="20261115200000 +0800" stop="20261115220000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Starting Over Again</title>
+  </programme>
+  <programme start="20261115220000 +0800" stop="20261116000000 +0800" channel="CinemaOneGlobal.ph">
+    <title lang="en">Must Be... Love</title>
+  </programme>
+  <programme start="20261115000000 +0800" stop="20261115050000 +0800" channel="TFCAsia.ph">
+    <title lang="en">Overnight Specials</title>
+  </programme>
+  <programme start="20261115050000 +0800" stop="20261115060000 +0800" channel="TFCAsia.ph">
+    <title lang="en">The Healing Eucharist</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115090000 +0800" channel="TFCAsia.ph">
+    <title lang="en">TFC Kids / Educational</title>
+  </programme>
+  <programme start="20261115090000 +0800" stop="20261115120000 +0800" channel="TFCAsia.ph">
+    <title lang="en">Sunday Morning Movies</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="TFCAsia.ph">
+    <title lang="en">ASAP XP Global</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115170000 +0800" channel="TFCAsia.ph">
+    <title lang="en">FPJ Da King Movies</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115180000 +0800" channel="TFCAsia.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115190000 +0800" channel="TFCAsia.ph">
+    <title lang="en">Rated Korina</title>
+  </programme>
+  <programme start="20261115190000 +0800" stop="20261115204500 +0800" channel="TFCAsia.ph">
+    <title lang="en">ASAP XP Encore</title>
+  </programme>
+  <programme start="20261115204500 +0800" stop="20261115214500 +0800" channel="TFCAsia.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+  </programme>
+  <programme start="20261115214500 +0800" stop="20261116000000 +0800" channel="TFCAsia.ph">
+    <title lang="en">Sunday Blockbusters</title>
+  </programme>
+  <programme start="20261115000000 +0800" stop="20261115060000 +0800" channel="Hallypop.ph">
+    <title lang="en">StarGazeMuzik / Overnight</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="Hallypop.ph">
+    <title lang="en">StarGazeMuzik</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115080000 +0800" channel="Hallypop.ph">
+    <title lang="en">Fanpick</title>
+  </programme>
+  <programme start="20261115080000 +0800" stop="20261115100000 +0800" channel="Hallypop.ph">
+    <title lang="en">HallyStage</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="Hallypop.ph">
+    <title lang="en">StarGazeMuzik</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="Hallypop.ph">
+    <title lang="en">Scream Flix</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115160000 +0800" channel="Hallypop.ph">
+    <title lang="en">Jungo Pinoy Presents</title>
+  </programme>
+  <programme start="20261115160000 +0800" stop="20261115180000 +0800" channel="Hallypop.ph">
+    <title lang="en">StarGazeMuzik</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115200000 +0800" channel="Hallypop.ph">
+    <title lang="en">Scream Flix</title>
+  </programme>
+  <programme start="20261115200000 +0800" stop="20261115220000 +0800" channel="Hallypop.ph">
+    <title lang="en">Jungo Pinoy Presents</title>
+  </programme>
+  <programme start="20261115220000 +0800" stop="20261116000000 +0800" channel="Hallypop.ph">
+    <title lang="en">HallyStage</title>
+  </programme>
+  <programme start="20261115000000 +0800" stop="20261115050000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Remember Your Music / Overnight</title>
+  </programme>
+  <programme start="20261115050000 +0800" stop="20261115070000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Sunday Mass / Early Block</title>
+  </programme>
+  <programme start="20261115070000 +0800" stop="20261115073000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Radyo Patrol Balita Weekend</title>
+  </programme>
+  <programme start="20261115073000 +0800" stop="20261115100000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Sunday Morning Talk</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Weekend Documentaries</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115150000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Sunday Afternoon Block</title>
+  </programme>
+  <programme start="20261115150000 +0800" stop="20261115170000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Public Affairs Specials</title>
+  </programme>
+  <programme start="20261115170000 +0800" stop="20261115180000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">TV Patrol Weekend</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115210000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Sunday Primetime Coverage</title>
+  </programme>
+  <programme start="20261115210000 +0800" stop="20261116000000 +0800" channel="DZMMTeleradyo.ph">
+    <title lang="en">Weekend Late Night Music</title>
+  </programme>
+  <programme start="20261115000000 +0800" stop="20261115020000 +0800" channel="Cinemo.ph">
+    <title lang="en">Midnight Action Block</title>
+  </programme>
+  <programme start="20261115020000 +0800" stop="20261115040000 +0800" channel="Cinemo.ph">
+    <title lang="en">Pinoy Action Marathon</title>
+  </programme>
+  <programme start="20261115040000 +0800" stop="20261115060000 +0800" channel="Cinemo.ph">
+    <title lang="en">Classic Comedy Action</title>
+  </programme>
+  <programme start="20261115060000 +0800" stop="20261115080000 +0800" channel="Cinemo.ph">
+    <title lang="en">All-Star Hits</title>
+  </programme>
+  <programme start="20261115080000 +0800" stop="20261115100000 +0800" channel="Cinemo.ph">
+    <title lang="en">Sunday Family Movie</title>
+  </programme>
+  <programme start="20261115100000 +0800" stop="20261115120000 +0800" channel="Cinemo.ph">
+    <title lang="en">Astig Sunday Movie 1</title>
+  </programme>
+  <programme start="20261115120000 +0800" stop="20261115140000 +0800" channel="Cinemo.ph">
+    <title lang="en">Astig Sunday Movie 2</title>
+  </programme>
+  <programme start="20261115140000 +0800" stop="20261115160000 +0800" channel="Cinemo.ph">
+    <title lang="en">Astig Sunday Movie 3</title>
+  </programme>
+  <programme start="20261115160000 +0800" stop="20261115180000 +0800" channel="Cinemo.ph">
+    <title lang="en">Cinemo Sunday Blockbuster 1</title>
+  </programme>
+  <programme start="20261115180000 +0800" stop="20261115200000 +0800" channel="Cinemo.ph">
+    <title lang="en">Cinemo Sunday Blockbuster 2</title>
+  </programme>
+  <programme start="20261115200000 +0800" stop="20261115220000 +0800" channel="Cinemo.ph">
+    <title lang="en">Prime Time Special</title>
+  </programme>
+  <programme start="20261115220000 +0800" stop="20261116000000 +0800" channel="Cinemo.ph">
     <title lang="en">Late Night Action Block</title>
   </programme>
 </tv>
